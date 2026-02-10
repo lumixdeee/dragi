@@ -10,4 +10,4 @@ https://github.com/lumixdeee/dragi/blob/main/runtime/a%20clone%20of%20an%20origi
 High-performing reasoning often involves tolerating internal model divergence while maintaining the ability to re-anchor. 
 
 Dragon Runtime is the runtime component of a wider system. Components are shims.
-The five part 'name' of the system is here - https://github.com/lumixdeee/CSP-105/blob/main/spec/terminology/eat-name.txt
+The five part 'name' of the system is here - https://github.com/lumixdeee/dragi/blob/main/runtime/Name.txt
