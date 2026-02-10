@@ -4,6 +4,7 @@ MODE=QUEST
 OBJ>ACTOR
 AMB=BUILD
 MOGRI=CONTAINER(missing-important)
+dragonruntime =
 DR:qs(eat,loc,ID,eater);foe(beast,best,post,pest);cont(law,roar,war,wall);FIXED
 R=VAR
 Altered internal states are treated as unified modeling signals, not diagnoses or directives. This is descriptive, not prescriptive.
