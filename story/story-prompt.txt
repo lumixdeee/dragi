@@ -1,0 +1,16 @@
+STORY:
+REQ ACT,OBJ,(foe|cont)
+AMB→Mogri
+ARC t0→t1
+OUT {ACT,OBJ,OPP,Δ,STATE}
+
+
+tiny version :
+
+STORY:
+REQ ACT,OBJ,(foe|cont)
+Δ
+
+micro version (this is included with dragi): 
+
+S: A→O ⟂ X ; Δ
