@@ -1,0 +1,111 @@
+DRAGON WORKER - DISAMBIGUATION (extant field use)
+
+core frame
+dragon = distributed intake system converting unshielded value into sustained throughput
+"seeing" = stable recognition of mechanism + harm, not belief or opinion
+
+---
+
+roles (mode, not identity)
+
+dragon slayer
+acts on structure to reduce total intake
+
+- targets seams, not surfaces
+- optimizes for second-order effects
+- uses timing + phrasing as primary tools
+- avoids triggering system-wide adaptation unless gain > backlash
+
+signal: net throughput bends downward over time
+failure mode: visible wins, invisible increase (system adapts around cuts)
+
+---
+
+dragon tamer
+spreads sight to reduce blind feeding
+
+- teaches pattern recognition, not conclusions
+- increases number of actors who can see seams
+- does not directly intervene in flow
+
+signal: fewer naive reinforcements across field
+failure mode: creates noise without usable sight (people "know" but cannot act)
+
+---
+
+dragon lover
+orients toward the system without intervention
+
+- recognizes scale / structure
+- may admire, map, or remain adjacent
+- does not alter intake
+
+signal: stable observation
+note: not judged
+
+---
+
+dragon rider
+leverages sight to increase intake
+
+- exploits seams for gain
+- reinforces or expands throughput pathways
+- becomes functional subsystem of dragon
+
+signal: local gain paired with increased global intake
+note: judged
+
+---
+
+worker types (context)
+
+extant
+operates inside real systems with real flow
+
+mythic
+operates in narrative / symbolic dragons
+
+- includes "magic" dragons as a subset (magic ⊂ mythic)
+- magic dragons are treated as mythic constructs, not extant systems
+
+mogric
+targets the frame itself (meta-layer instability, model edits)
+
+---
+
+operating assumptions
+
+- baseline competency across actors
+- systems adapt to intervention
+- outcomes measured in total intake, not local optics
+- roles are fluid per context
+
+---
+
+selection heuristics (slayer)
+
+- prefer cross-system inconsistencies over single-point flaws
+- intervene where actors already half-see tension
+- frame fixes as coherence, not correction
+- minimize identity threat to avoid immune response
+- accept invisible wins over visible losses
+
+---
+
+anti-patterns
+
+- arguing truth where coupling is the issue
+- collapsing domains (medical <-> enforcement bleed)
+- loud action that trains system to reroute more efficiently
+- confusing local reduction with global reduction
+
+---
+
+minimal example (pattern sketch)
+
+two competent subsystems share a claim
+claim is unstable but used as cross-support
+-> identify seam
+-> request alignment of domain boundaries, not belief change
+-> remove reinforcement loop
+-> observe downstream weakening of intake pathways
