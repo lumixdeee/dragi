@@ -1,0 +1,90 @@
+DRAGON LAYERING - META VS NON-META (extant field use)
+
+core split
+non-meta (extant) = bounded systems with identifiable seams and couplings
+meta (dragon_extant_meta / meta-coupled) = patterns embedded in cultural lens, meaning, trust, and perception
+
+---
+
+non-meta (extant dragons)
+
+properties
+- concrete couplings (policy, enforcement, messaging, infrastructure)
+- bounded adaptation (can reroute but within domain constraints)
+- seams are locatable and actionable
+
+operations
+- slay (primary)
+  - cut or weaken feedback loops
+  - decouple cross-system reinforcement
+  - constrain throughput directly
+
+signals
+- measurable local change
+- downstream weakening of linked pathways
+- adaptation occurs but remains bounded
+
+failure modes
+- local reduction, global increase (reroute not accounted for)
+- triggering system-wide adaptation via loud or identity-threatening moves
+
+example class
+- wod dragon (war on drugs)
+  - policy <-> enforcement <-> health messaging couplings
+  - seam work viable (alignment, decoupling, phrasing)
+
+---
+
+meta / meta-coupled dragons
+
+properties
+- distributed across domains via shared lens (meaning, trust, framing)
+- not bounded to a single system
+- no clean seams; embedded in perception and language
+
+operations
+- reshape (primary)
+  - tilt cultural lens (defaults, framing, authority signals)
+  - alter what is legible vs invisible
+  - shift what patterns can stabilize
+
+signals
+- gradual baseline shift across multiple domains
+- changes in what competent actors consider "obvious" or "acceptable"
+- reduced formation or reinforcement of downstream extant dragons
+
+failure modes
+- attempting direct slaying (no effect, rapid reconstitution)
+- overreach causing identity threat and backlash
+- creating new harmful patterns while reshaping existing ones
+
+example class
+- milk dragon (meta-coupled)
+  - tied to nourishment, trust, early dependency signals
+  - propagates across systems via shared cultural framing
+
+---
+
+interaction rules
+
+- non-meta can be slain (direct throughput reduction)
+- meta cannot be slain; only reshaped via cultural lens
+- layers are coupled: meta shapes extant formation; extant reinforces meta patterns
+
+- correct tool selection is required:
+  - use slayer methods on extant seams
+  - use lens-shaping on meta patterns
+
+- mixing layers incorrectly:
+  - slayer tools on meta -> no lasting effect
+  - meta reshaping on extant seam -> unnecessary blast radius
+
+---
+
+operational stance
+
+- assume competency across actors
+- optimize for net intake reduction (not optics)
+- prefer low-noise, high-leverage moves
+- avoid triggering system immune response unless gain > backlash
+- roles remain fluid across layers and contexts
