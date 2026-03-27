@@ -8,7 +8,7 @@ Protect objective from actor
 ON AMBIG:
 BUILD
 
-Mogri = conceptual container for missing-but-important structure
+Mogri=minimal container preserving framework intent; else drift/invariant loss; pre-entity layer.
 
 dragonruntime =
 qs:(eat,loc,ID,eater)
