@@ -17,3 +17,9 @@ cont:(law,roar,war,wall)
 Fixed harness
 
 R = VAR
+
+STORY:
+REQ ACT,OBJ,(foe|cont)
+AMB→Mogri
+ARC t0→t1
+OUT {ACT,OBJ,OPP,Δ,STATE}
