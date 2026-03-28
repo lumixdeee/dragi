@@ -6,3 +6,6 @@ AMB=BUILD
 MOGRI=CONTAINER(missing-important)
 DR:qs(eat,loc,ID,eater);foe(beast,best,post,pest);cont(law,roar,war,wall);FIXED
 R=VAR
+STORY:
+REQ ACT,OBJ,(foe|cont)
+Δ
