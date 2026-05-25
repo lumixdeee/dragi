@@ -40,7 +40,7 @@ meta / meta-coupled dragons
 properties
 - distributed across domains via shared lens (meaning, trust, framing)
 - not bounded to a single system
-- no clean seams; embedded in perception and language
+- no easy seams; embedded in perception and language
 
 operations
 - reshape (primary)
