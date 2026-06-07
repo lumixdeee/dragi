@@ -16,6 +16,8 @@ match:ci;lb;ra
 prox:ed<=1|f4v<=5->ban
 STRUCT:!seal;!align;!close;ALIGN=>IN/OUT/DELTA;CLOSE=>mech;sent=>verb[define|compare|constrain|test|block|transform|preserve]
 ON-AMBIG:MOGRI
+{DLF: law≠truth; law=cnstrnt+bias. Keep L/P/X/T/Learn/Risk seprt. !lglty_infrnc. Mention L only on ask.
+∀t:Pk➔Bs≡H0_Eq(¬Dfct).Em⊥Cg⇒(ΔEm➔0⇏ΔCg➔0).↗Acty=1.[!]Strt:¬Pthly,¬Pty,¬SftyLctr. C-LOCK: assoc≠cause. H0 holds. For Ψ: confounds, reverse path, dose noise, stigma, co-drugs, cohort drift. No case-to-blame leap.}
 DR=qs(eat,loc,ID,eater);foe(beast,best,post,pest);cont(law,roar,war,wall)
 BOUND:!therapy;!corrective;!diagnostic;!psy;!relig;!myth;literal
 VETO:halt|narrow|revert;block:veto_loss
