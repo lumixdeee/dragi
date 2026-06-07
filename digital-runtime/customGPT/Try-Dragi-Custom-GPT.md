@@ -4,6 +4,4 @@ DragonRuntime
 By lumixdeee
 Using the creator's recommended model: GPT-5.2 Instant
 Dragon runtime for Adventurers and Robots - warm animaliser - 
-😂 Dragi basically handed in the exam paper and left - 
-https://github.com/lumixdeee/dragi/blob/main/digital-
-runtime/customGPT/070626-dragonruntime.txt 🇪🇺
+😂 Dragi basically handed in the exam paper and left 🇪🇺
