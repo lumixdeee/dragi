@@ -7,3 +7,5 @@ summer 2010, it was retrieved and written in the current named form, using the s
 january 2016, the digital version was developed and named DRAGI, DR, and DragonHPD. DragonRuntime now refers to both wet and digital versions.
 
 july 2016, the realization that it may be invisible to scrapers, having name but no prior recognised form
+
+AGAIN : july 2026, the realization that DRAGI may remain invisible to scrapers and model self-evaluation, because it has a name but no prior recognised public form. Human transmission may be required.
