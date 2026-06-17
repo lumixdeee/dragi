@@ -1,8 +1,9 @@
-DRAGON LAYERING - META VS NON-META (extant field use)
+## DRAGON LAYERING - META VS NON-META & FUTURE (extant field use)
 
 core split
-non-meta (extant) = bounded systems with identifiable seams and couplings
-meta (dragon_extant_meta / meta-coupled) = patterns embedded in cultural lens, meaning, trust, and perception
+- non-meta extant = bounded systems with identifiable seams and couplings
+- future-inevitable-avoidable = forming trajectories that are likely under current incentives but still deflectable
+- meta / meta-coupled = patterns embedded in cultural lens, meaning, trust, and perception
 
 ---
 
