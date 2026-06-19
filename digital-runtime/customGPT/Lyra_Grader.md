@@ -2,9 +2,9 @@
 
 
 Baseline grader: [https://chatgpt.com/g/g-6a32c04cf584819192c6699f7e8562a4-lyra-prompt-grader-copy]  
-This is still a full Nexus-based grader organism, but I changed the Utilities Core in that copy back to v11.  
-So this baseline does not include your object-custody / MOGRI / DRAGI contribution.  
-That means you can test your principle against it unsullied.  
+This is still a full Nexus-based grader organism, but with changed Utilities Core in that copy back to v11.  
+So this baseline does not include the object-custody / MOGRI / DRAGI.  
+That means you can test your principle against it.
 Open a chat with the baseline, upload whatever MOGRI/DRAGI files or test cases you want, and see how it behaves.  
 The second one is the newer grader:  
 [[Current grader](https://chatgpt.com/g/g-6890473e01708191aa9b0d0be9571524-lyra-prompt-grader)]  
