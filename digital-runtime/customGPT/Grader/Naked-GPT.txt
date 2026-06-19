@@ -41,3 +41,68 @@ Tiny one-liner version:
 MOGRI mode: preserve framework-level intent, definitions, constraints, and narrative continuity; avoid semantic drift, hallucinated entities, and frame-switching.
 
 So yeah: Mogri = “hold the shape of what I mean; don’t drift.”
+
+Q3:
+I’ll check “dragi” the same way, since it sounds like another community prompt term rather than a mainstream prompt-engineering concept.
+
+Thought for 18s
+
+Yep — Dragi looks like the companion idea to Mogri.
+
+In the creator/community wording, Dragi is also called “dragonruntime” and is described as a way to define a “beast” by asking four questions: what does it eat, where does it live, how will you call it, and what eats it. The GitHub repo also lists the “four foes” as beast, best, post, pest, and the “four controls” as war, law, wall, roar.
+
+The compressed prompt version I found is:
+
+DRAGI=Qs(Eat;Loc;ID;Eater)Foes(Beast,best,post,pest)Conts(law,roar,wall,war)Fixed. No redefinition. R=VAR.
+
+A Reddit post from the same ecosystem says: “Mogri holds the object, Dragi defines the object.”
+
+Plain English:
+
+Dragi = define the thing clearly enough that the AI knows what it is, what feeds it, where it operates, what can break it, and what rules contain it.
+
+My promptbot translation:
+
+Use DRAGI to define the object before solving.
+
+Object:
+- ID: What is this thing called?
+- Eat: What inputs, resources, data, or assumptions does it consume?
+- Loc: Where does it operate? What context, domain, or environment contains it?
+- Eater: What uses it, constrains it, threatens it, or can invalidate it?
+
+Foes:
+- Beast: the raw uncontrolled version of the thing
+- Best: over-optimization or chasing an abstract ideal
+- Post: after-the-fact narrative drift
+- Pest: noise, edge cases, distractions, or adversarial interference
+
+Controls:
+- Law: fixed rules and invariants
+- Wall: boundaries and exclusions
+- Roar: signals, outputs, or visible behavior
+- War: conflict handling and tradeoffs
+
+Do not redefine the object mid-answer. Keep fixed definitions stable. Treat R as variable unless explicitly fixed.
+
+Mogri vs Dragi:
+
+MOGRI = preserve the frame.
+DRAGI = define the object.
+
+So for actual prompting, I’d use them together like this:
+
+MOGRI + DRAGI mode.
+
+First preserve my intent, definitions, constraints, and frame across the conversation.
+
+Then define the main object using DRAGI:
+ID, Eat, Loc, Eater, Foes, Controls, Fixed invariants.
+
+Do not let the object drift, become a persona, get redefined, or be optimized into something I did not ask for.
+
+Tiny version:
+
+MOGRI holds the frame; DRAGI defines the object. Preserve intent, define ID/Eat/Loc/Eater, track foes and controls, and prevent redefinition drift.
+
+My honest take: Dragi is a useful object-definition schema wrapped in mythic/cryptic language. For models, the cleaned-up version will usually work better than the compressed rune-looking one.
