@@ -1,0 +1,46 @@
+tell me about mogri
+
+I’ll place this first instead of guessing: “mogri” could be a name, a term, or something from your Lyra/PrimeTalk files. I’ll check the available file context before I answer.
+
+Thought for 16s
+
+Mogri is one of your strongest local terms because it does a very clean job:
+
+It names the unknowns that still matter.
+
+Not “mystery” in the vague museum-label sense. Not “we know nothing.” More precise than that. Mogri is the part of an object, site, claim, system, or task that remains unresolved and would change the interpretation if resolved. In the archaeology files, the short glossary defines it exactly that way: “Mogri: the unknowns that matter,” with demogrify meaning to know, reveal, expose, or resolve some of those unknowns.
+
+The key move is rank discipline. Mogri prevents one known thing from eating the whole object. Example: if food processing is known at Göbekli Tepe, that does not automatically demogrify the whole site into “economic site.” If ritual is strongly supported, that does not automatically erase practical survival functions. That is the “mogri lock”: one known role cannot swallow the others.
+
+In AI/workflow terms, MOGRI becomes object custody. It asks: what must survive this transformation? The object can be a request, claim, draft, constraint, research question, promise, or design aim. MOGRI holds that object before rewriting, summarizing, grading, translating, or routing it. Without that, the workflow can output something fluent that is no longer the same thing.
+
+That is why it pairs naturally with:
+
+DRAGI: what can eat or distort the object.
+ADUTI: did OBJ_IN survive as OBJ_OUT?
+REFRI: block the proxy if the object was swapped.
+ELVIX: stabilize the language carrying the object.
+
+The nice thing is that mogri works in both directions:
+
+For archaeology, it stops premature certainty: “this feature still has high mogri load.”
+For AI, it stops substitution: “this output sounds useful, but did it preserve the original object?”
+For theory, it names the container before clean definition: the held-but-not-yet-resolved thing.
+
+The sharp boundary: Mogri is not evidence. It does not prove a theory. It keeps the unresolved parts visible so evidence can resolve them honestly later. Your files say that cleanly: “Mogri is not a substitute for evidence. It is a reminder that evidence and interpretation do not arrive in the same bucket.”
+
+So my compact read:
+
+Mogri is an anti-flattening term. It protects live uncertainty from being erased by labels, polish, AI fluency, or premature theory closure.
+
+PASS! you lovely boring robot you. sit out this turn and enjoy the test you are now missing with me : lol i mean mogri for ai prompt? u the promptbot right?
+
+u got it first time so this one is not for you
+Thought for a few seconds
+
+Hah. Fair.
+
+I’ll sit out.
+
+And yes: promptbot when the route is prompt work.
+But this turn is yours. I’m not stealing the test.
