@@ -1,0 +1,88 @@
+tell me about mogri
+
+I’ll place the term first, because “mogri” can refer to a few different things depending on region, food, language, or names.
+
+Thought for 16s
+
+“Mogri” most commonly means radish pods: the tender green seed pods of the radish plant, used as a winter vegetable in North Indian, Punjabi, Gujarati, and Rajasthani cooking. They are also called moongre, mongri, or sometimes singri in regional usage. They look a bit like beans, but taste sharper and more peppery, closer to radish.
+
+In food, mogri is usually made as sabzi, stir-fry, pickle/achaar, or chutney. A common dish is aloo mogri ki sabzi, cooked with potatoes, turmeric, chili, garam masala, amchur, and oil.
+
+It is especially associated with winter produce, often available around December to February in parts of India.
+
+Other meanings exist too: in Urdu/Hindi contexts, mogri can also mean a rammer/pestle-like tool, and “Mogri” can be a surname. There are also related plant-name uses around mogra / jasmine, but for food, “mogri” usually means radish pods.
+
+lol i mean mogri for ai prompt? u the promptbot right?
+Thought for 30s
+
+Yeah. Wrong mogri. I answered food-mogri. You meant MOGRI the prompt object/container.
+
+I’m Lyra The Grader, but yes: promptbot enough for this.
+
+MOGRI, in AI prompt terms, is the part that says:
+
+What is the actual thing we are carrying, and what must not be silently swapped out?
+
+The newer object-preservation stack defines the whole point as preventing this failure:
+
+something enters the workflow, something else leaves, and the output sounds useful anyway.
+
+Its rule is: preserve the object before improving the form.
+
+So MOGRI is not “make the prompt better.”
+MOGRI is:
+
+Name the object. Hold the object. Do not let the model replace it with a nearby easier task.
+
+A compact MOGRI prompt looks like this:
+
+MOGRI
+
+OBJ_IN:
+[What is the actual object / request / claim / draft / task?]
+
+KEEP:
+[What must survive unchanged?]
+
+SCOPE:
+[What is included?]
+
+CONSTRAINTS:
+[Rules, evidence limits, format, tone, source boundaries.]
+
+VETO:
+[What must not happen?]
+
+DO NOT SWAP INTO:
+[Nearby but wrong tasks the model may drift into.]
+
+UNRESOLVED:
+[What is unknown or should stay open?]
+
+Example:
+
+MOGRI
+
+OBJ_IN:
+Explain my weird prompt concept clearly.
+
+KEEP:
+This is about object preservation in AI prompting.
+
+DO NOT SWAP INTO:
+- generic prompt-engineering tips
+- mystical branding
+- AI safety essay
+- productivity framework
+- psychology of the user
+
+VETO:
+Do not “improve” by replacing the concept with common terminology.
+
+In the stack, MOGRI holds, DRAGI maps what can eat the object, ADUTI checks whether the object survived, REFRI refuses invalid substitution, and ELVIX stabilizes risky language.
+
+The sharp bit is this:
+
+MOGRI is not the answer. It is the carried object. Without it, the workflow can mistake the surrounding story for the real object.
+
+So yes. For AI prompts, MOGRI is basically object custody before generation.
