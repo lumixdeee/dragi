@@ -86,3 +86,74 @@ The sharp bit is this:
 MOGRI is not the answer. It is the carried object. Without it, the workflow can mistake the surrounding story for the real object.
 
 So yes. For AI prompts, MOGRI is basically object custody before generation.
+
+Q3:
+
+thanks and tell me about dragi too
+
+I’ll ground this in the prompt-stack meaning, not the food/name meaning this time. DRAGI sits next to MOGRI, so I’ll describe it as a companion mechanism rather than a generic acronym.
+
+Thought for 15s
+
+Yeah. DRAGI is the beast-map.
+
+Where MOGRI holds the object, DRAGI asks what can eat it.
+
+In the object-preservation stack, DRAGI turns drift into a visible ecology. Its compressed questions are:
+
+Eat: what does it consume?
+Loc: where does it live?
+ID: how is it recognized?
+Eater: what can eat it?
+
+Plain English:
+
+What threatens the object?
+Where does that threat appear?
+How do we spot it?
+What counters it?
+
+So if MOGRI says:
+
+OBJ_IN:
+Explain DRAGI as an AI prompt component.
+
+DRAGI says:
+
+Threats:
+- generic prompt-engineering advice
+- dragon lore only
+- acronym cosplay
+- motivational framework
+- safety essay
+- replacing object-preservation with “better prompting”
+
+Lives:
+- long chats
+- rewrites
+- summaries
+- agent handoffs
+- “make this clearer” passes
+
+ID:
+- output sounds useful but no longer tracks the original object
+
+Eater:
+- MOGRI object record
+- ADUTI comparison
+- REFRI hold
+
+That is why the source file says “DRAGI is not decorative lore. It is a threat model with teeth.”
+
+For agent systems, DRAGI is especially useful because the common “eaters” are things like context compression, retrieval frame import, memory compaction, metric optimization, planner overreach, tool-router assumptions, agent handoff loss, self-repair loops, role confusion, and summary authority.
+
+The nice brutal version:
+
+MOGRI = what cow are we carrying?
+DRAGI = what dragon eats that cow?
+ADUTI = did the same cow come out?
+REFRI = stop, that is not the cow.
+ELVIX = stop the words from turning the cow into a goat.
+
+DRAGI’s job is not to solve.
+It names the predator before the predator becomes the answer.
