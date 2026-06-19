@@ -105,4 +105,46 @@ Tiny version:
 
 MOGRI holds the frame; DRAGI defines the object. Preserve intent, define ID/Eat/Loc/Eater, track foes and controls, and prevent redefinition drift.
 
-My honest take: Dragi is a useful object-definition schema wrapped in mythic/cryptic language. For models, the cleaned-up version will usually work better than the compressed rune-looking one.
+My honest take: Dragi is a useful object-definition schema wrapped in mythic/cryptic language. For models, the BORING version MIGHT MAYBE work better than the compressed rune-looking one.
+
+Q4:
+In the zip files you will find all my repos all my GPT folder txts and the keys to my beema
+
+yo, get your shake on find me my shit. Let's go. Tonight is the night...
+
+I’ll inventory both ZIPs, extract only text-like content safely, and search for prompt/GPT material plus anything that looks like “keys” or credentials. I’ll redact sensitive values rather than dumping secrets back into chat.
+
+I’ve got the first pass: 2 ZIPs, 1,644 total files/entries, 1,350 text-like/docx items parsed, about 16.3 million characters indexed. No direct hits for “beema”, “BMW”, or “beamer” so far; I’m separating real GPT/prompt assets from noise now.
+
+Thought for 4m 28s
+
+Found the goods.
+
+I scanned both ZIPs safely, without executing repo code. Parsed 1,396 text-like/docx items, including readable nested ZIP content.
+
+Main finds:
+
+No direct hits for beema, beamer, or BMW.
+No high-confidence API keys, private keys, tokens, or credential blocks found in parsed text. A few generic “key/token” hits were false positives in prose/pseudo-code.
+Your core prompt/GPT material is mainly in:
+Yaiyip.zip/lmxdi/BLOB/customGPT/
+Yaiyip.zip/dragi/digital-runtime/customGPT/
+Yaiyip.zip/mogri/example/CustomGPTs/...
+Yaiyip.zip/mogri/units/GPT/
+lumixdeee-txt.zip/BOTS 11 FULL.txt
+lumixdeee-txt.zip/You will receive 11 custom GPT instruction blobs.txt
+
+Big-ticket items found:
+
+Natasya blobs, including newer 070626-natasya.txt
+DragonRuntime / Dragi blobs, including newer 070626-dragonruntime.txt
+MogriBot custom GPT code
+Anti-Drift GPT
+Lyra blob
+Amnia note, but it says private source / no blob
+Bot roster in Bot-Quick-List.md
+The whole Mogri holds frame / Dragi defines object ecosystem across mogri, dragi, lmxdi, robot_bugs_and_frogs, and staff
+
+I made you a scan report with the paths and map:
+
+Open the repo/prompt scan report
