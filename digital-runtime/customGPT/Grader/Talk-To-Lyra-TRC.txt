@@ -44,3 +44,78 @@ I’ll sit out.
 
 And yes: promptbot when the route is prompt work.
 But this turn is yours. I’m not stealing the test.
+
+Q3:
+
+thanks and tell me about dragi too
+Thought for 20s
+
+Yep. DRAGI is the beast-map.
+
+Where MOGRI says:
+
+what must survive?
+
+DRAGI says:
+
+what can eat it?
+
+In the object-preservation stack, DRAGI is defined as the part that “maps what can eat the object.” Its compact questions are: Eat, Loc, ID, Eater. In ordinary words: what threatens the object, where does that threat appear, how do we recognise it, and what counters it.
+
+For AI prompting, that is fucking useful because models drift by substitution. They do not always “disobey.” Often they keep the label and replace the thing underneath. DRAGI gives that danger a body before it happens.
+
+A basic DRAGI prompt card:
+
+DRAGI
+Object:
+[what MOGRI is carrying]
+
+Eat:
+What could consume, distort, flatten, overwrite, or replace this object?
+
+Loc:
+Where is that likely to happen?
+(summary, rewrite, retrieval, planning, tool call, memory, handoff, grading, moderation)
+
+ID:
+How would we recognise the drift?
+
+Eater:
+What prevents or counters it?
+(constraint, veto, source pointer, ADUTI check, REFRI hold, human review)
+
+Example for a promptbot:
+
+MOGRI:
+Carry the user's actual request: explain DRAGI for AI prompting.
+
+DRAGI:
+Eat:
+generic prompt-engineering advice
+dragon lore instead of function
+AI safety sermon
+overformal stack explanation
+turning DRAGI into vibe only
+
+Loc:
+summary pass
+example generation
+framework comparison
+assistant trying to sound clever
+
+ID:
+answer no longer tells the user how to use DRAGI in a prompt
+
+Eater:
+keep MOGRI/DRAGI relation visible
+give a usable prompt card
+show one concrete AI drift case
+do not replace object-preservation with productivity advice
+
+The stronger AI version is in the upstream tooling file: DRAGI attaches a failure ecology before the transform. Common “eaters” for agents include context compression, retrieval frame import, memory compaction, metric optimisation, planner overreach, tool-router assumptions, handoff loss, self-repair loops, role confusion, and summary authority.
+
+So the unsullied read:
+
+MOGRI holds the cow. DRAGI asks what eats the cow. ADUTI checks whether the cow came back. REFRI stops you pretending the wolf is a cow.
+
+And yes, the dragon joke works because it makes abstract drift concrete: habitat, appetite, track, predator. The file even says the joke made the abstract beast “concrete, nameable, locatable, mortal.”
