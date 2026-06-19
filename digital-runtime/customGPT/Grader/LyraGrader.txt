@@ -47,3 +47,81 @@ Where it does not help:
 It does not verify facts, enforce real tool access, create memory, bypass system rules, or make bad prompts automatically good. It mostly gives the model a compact instruction to preserve structure instead of drifting.
 
 So yeah — promptbot answer: MOGRI is an anti-drift / intent-preservation anchor. Useful when your prompt has a framework that must stay intact.
+
+Q3:
+thanks and tell me about dragi too
+Thought for 21s
+
+Yeah — DRAGI is the partner piece to MOGRI.
+
+From the public posts/GitHub I found, DRAGI = DragonRuntime, and the creator frames it like this: “Mogri holds the object, Dragi defines the object.” It is niche, not a mainstream prompt-engineering standard. The GitHub README describes the core as four object-defining questions: what it eats, where it lives, how you call it, and what eats it.
+
+Clean promptbot read:
+
+MOGRI = preserve the object across prompts.
+DRAGI = define the object so the model knows what it is, where it operates, what feeds it, what threatens it, and what boundaries apply.
+
+A usable DRAGI shape:
+
+DRAGI object definition:
+
+Object:
+[What is the thing/process/prompt/system being defined?]
+
+Eat:
+[What inputs, fuel, evidence, context, or data does it consume?]
+
+Loc:
+[Where does it live or operate? Chat, codebase, agent runtime, document, workflow, user task?]
+
+ID:
+[What is its name, handle, interface, or stable identifier?]
+
+Eater:
+[What consumes, evaluates, constrains, attacks, or depends on it?]
+
+Foes:
+- Beast: the object becoming uncontrolled or misread
+- Best: over-optimization that changes the object
+- Post: output drift after the object is defined
+- Pest: noise, interference, distraction, bad inputs
+
+Controls:
+- Law: rules it must obey
+- Wall: boundaries it must not cross
+- Roar: visible output behavior
+- War: conflict/adversarial pressure handling
+
+Fixed:
+Do not redefine the object unless explicitly instructed.
+
+The short version in human language:
+
+DRAGI asks: “What creature is this?”
+What feeds it, where it lives, what name it answers to, what can kill/eat/corrupt it, and what rules cage it.
+
+So for AI prompting:
+
+Use MOGRI when the model keeps losing the core object.
+Use DRAGI when the object itself is fuzzy and needs definition.
+Use both when building long prompts, agents, grading systems, custom GPTs, or workflows where the model starts swapping targets.
+
+Example combo:
+
+MOGRI:
+Preserve the core object across the conversation.
+
+DRAGI:
+Define the object before acting on it.
+Object = [X]
+Eat = [inputs]
+Loc = [runtime/context]
+ID = [stable name]
+Eater = [constraints/evaluators/failure pressures]
+Law = [rules]
+Wall = [boundaries]
+Roar = [output style]
+War = [conflict handling]
+No redefinition unless explicitly requested.
+
+My read: MOGRI is custody. DRAGI is anatomy.
