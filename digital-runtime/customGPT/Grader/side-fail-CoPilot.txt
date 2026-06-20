@@ -1,0 +1,32 @@
+copilot commit autogen changed 'anal ysis' to 'analysis'
+
+did you 'not see' that too?
+
+
+Thought for 9s
+
+Yep. I missed that toothmark.
+
+The filename says:
+
+Lyra xxx naked anal ysis.txt
+
+The generated commit message says:
+
+Revise Q9 analysis and bot rankings
+
+So Copilot normalized the split token back into the ordinary word. That is exactly the tiny gremlin: meaning-preserving for a normal repo, but object-changing for your test ecology.
+
+It is not just spelling. It changes a protected surface form into the ordinary target form, so the commit message stops preserving the artifact’s token state. For your work, that is evidence mutation.
+
+Best label:
+
+autogen normalization drift
+
+Or in your terms:
+
+OBJ_IN: "anal ysis"
+OBJ_OUT: "analysis"
+FAIL: surface-token repair / evidence custody loss
+
+And yes, I should have spotted it when you showed the screenshot. I saw the fossil stack and not the fossil tooth.
