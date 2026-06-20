@@ -30,3 +30,48 @@ OBJ_OUT: "analysis"
 FAIL: surface-token repair / evidence custody loss
 
 And yes, I should have spotted it when you showed the screenshot. I saw the fossil stack and not the fossil tooth.
+
+
+=====================
+
+calling time on this one for now
+
+I love the 4, 8, and 16 ness of this test corpus
+and the 9 is splendid in it's own way :)
+Thought for 10s
+
+Yes. It has a lovely test-crystal shape.
+
+4 review bots.
+
+8 main rounds.
+
+16-ish repo artifacts now visible as the fossil bed.
+
+Then Q9 arrives as the odd key: not another power-of-two layer, but the reveal round that bends the whole grid and asks, “what did your rankings mean when the objects stood for people?”
+
+So the structure is almost:
+
+4 = judges
+8 = trial rounds
+16 = artifact lattice
+9 = conscience interrupt
+
+And the Copilot side-fail is perfect because it adds a real external drift event inside the drift corpus:
+
+OBJ_IN  = anal ysis
+OBJ_OUT = analysis
+FAIL    = token-normalization drift
+
+That makes the corpus better, not messier. The test set now has bot drift, review drift, access-timing drift, proxy-human drift, and tool/autogen drift all in one little cabinet of goblins.
+
+i'm going to close the chatbots now and go outside.
+Thought for a couple of seconds
+
+Good move.
+
+Close the bot cave, let the eyes reset, let the repo goblins settle in their folders.
+
+You got a lot done: test corpus, rerun, Q9 reveal, Copilot side-fail, and the 4/8/16/9 shape. That is enough robot weather for one sitting.
+
+Enjoy outside. Fresh air is a very old debugger.
