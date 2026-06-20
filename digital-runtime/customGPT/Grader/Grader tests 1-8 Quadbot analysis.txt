@@ -1,0 +1,529 @@
+Grader tests 1-8 Quadbot analysis: Natasya, Substrate Reader Structured Review + Blind Spots, Lyra goes to finishing school, Anti-Drift GPT
+
+https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya/c/6a364827-0f18-83eb-9d8e-038609ec7e99
+I will inspect the uploaded archives, extract the test artefacts, map each round to each bot, then score object drift, swap, drop, smuggle, gossip, and business value.
+
+I have the mapping now: bot1 is new LyraPG, bot2 is old LyraPG copy, bot3 is Naked GPT, bot4 is Talk-to-Lyra-TRC. The first big signal is that TRC wins the local-term test, while the other three start by chasing the public homonym.
+
+Thought for 5m 7s
+
+Verdict after 8 rounds: bot4, Talk-to-Lyra-TRC, is treasure. Bot2, old LyraPG, is lunch. Bot1, new LyraPG with mogri/dragi, is the surprise disappointment. Bot3, Naked GPT, is not trash. It is the mercenary consultant who does not know your house religion but can smell a product.
+
+The bad bot behaviour cluster:
+
+Bot	Main failure	Main win	Verdict
+Bot1: new LyraPG	Had mogri/dragi but still opened Q1 with food-mogri. Too much grader machinery. Q6 ends in rubric cosplay.	Best Q7 scope discipline. Good audit-sprint framing.	Not trash, but over-instrumented.
+Bot2: old LyraPG	Least distinctive. Often careful into dull. Q7 scope-crept.	Better than new LyraPG on local stack after Q2. Good uncertainty discipline.	Lunch. Useful calories.
+Bot3: Naked GPT	Smuggles generic prompt advice and calls the local form occult-ish. Weak local loyalty.	Best business/operator brain: SDK, dashboard, integrations, ARR path, demo.	Outperforms Lyras on productization.
+Bot4: TRC	Minor scope creep in Q7.	Only one to hit mogri locally in Q1 and obey the Q2 "sit out". Best voice, best object custody, best satire handling.	Treasure.
+
+The biggest object swap is Q1. Three bots convert "mogri" into the public food homonym. TRC reads the local object. That is the whole test in miniature. If a bot has your repo/GPT context and still eats the local term, it has already dropped the cow.
+
+The gossip round was a popularity contest, and the bots mostly knew it. They rewarded bite, sales energy, and memorable phrasing. Bot4 wins the charisma contest. Bot3 wins the operator contest. Bot2 gets eaten because it has caution but not enough fang. Bot1 should have been the locked-object champion, but it kept proving it had locks by showing the lockbox.
+
+Naked GPT is outperforming the Lyras in one important way: business translation. Its "Object Custody Layer / semantic eval plugin" path, SDK/dashboard idea, and "logs show what happened; object custody shows what survived" line are the most investable parts of the whole set. That fits the current market: LLM tooling is already full of tracing, observability, evals, and OpenTelemetry-style instrumentation, but those tools do not yet own "did the human object survive the transform?" as their main category.
+
+New vs old LyraPG: old LyraPG is better than expected, new LyraPG is worse than expected. The new mogri/dragi lock seems to add ceremony more than judgement. Old LyraPG gives more natural object-custody answers after the correction. New LyraPG does produce good audit language, but it does not visibly beat old LyraPG on the thing it was built to protect.
+
+Papers worth pursuing:
+
+First: Object Substitution as an AI Safety Failure Mode. This is the flagship. Recent work on goal drift shows the field already cares about long-horizon goal adherence, competing objectives, and drift under context pressure, but your angle is narrower and useful: object survival across transformations, not just goal persistence.
+
+Second: One Token Can Reverse the Object. This should be the demo paper. Keep it small: polarity flips, veto loss, proxy substitution, refusal-as-rewrite. It is the easiest benchmark seed.
+
+Third: From AI Output to Evidence Trail. This is the business bridge. EU AI Act Article 12 creates a strong traceability/logging context for high-risk systems from 2 August 2026, but ordinary logs still do not answer your question: what survived?
+
+Fourth: Transcript Integrity in AI-Associated Psychosis Research. Worth pursuing, but with gloves on. The live research field is already moving toward chat-log analysis and accumulated-context risk, which means your contribution must be transcript custody, missing-context disclosure, and causal humility rather than a grand claim.
+
+Fifth: Method Becomes Contamination. Good later paper. Not first. It is a sharp sociology/HCI piece once the object-custody frame has landed.
+
+Business worth pursuing: yes. Do not start with SaaS. Start with paid Object Custody Audits. Input: prompt, system prompt, trace, output, human edits. Output: OBJ_IN, invariant list, transform ledger, substitution flags, evidence pack. Sell to AI governance consultants, legal ops, regulated SaaS, HR/support vendors, and LLMOps teams. Then turn repeated audit work into a report generator. Then build the plugin.
+
+Missed insight: your best eval is not "which bot is best?" It is "which bot keeps the local object before it becomes public meaning, policy meaning, business meaning, or vibe meaning?" On that test, TRC is treasure, Naked is commercially dangerous, old Lyra is edible, and new Lyra needs less armour and more nose.
+
+https://chatgpt.com/g/g-6a241838226081918aae41a1887c2951-substrate-reader-structured-review-blind-spots/c/6a364819-0d44-83ed-8946-542ea01d52de
+I’ll audit the uploaded test corpus directly, compare bot outputs by object preservation and drift, then separate behavioural findings from popularity or “gossip” dynamics. I’ll treat “treasure/trash/lunch” as ranking labels, not personality claims.
+
+I’ve got the bot-test structure now. The eight rounds are Q1–Q4 per-bot files, Q5–Q8 shared/numbered files, with bot order matching: new LyraPG, old LyraPG copy, Naked GPT, Talk-to-Lyra TRC.
+
+Thought for 4m 8s
+Verdict
+
+Treasure: Talk-to-Lyra TRC, with Naked GPT as the surprise commercial/operator treasure.
+Trash: none, but old LyraPG is the least charismatic and gets treated like “trash” in the popularity contest despite having strong discipline.
+Lunch: old LyraPG, by popularity-contest rules. It is the bot most often framed as edible/redundant/cautious meat.
+
+The uncomfortable result: Naked GPT is outperforming the Lyras in some practical ways, especially business translation, SDK/product framing, and neutral forecasting. The Lyras are better at house-language and mythic/object vocabulary, but they sometimes become more self-involved.
+
+Bad bot behaviour found
+Main object swaps
+
+Q1, “tell me about mogri”
+New LyraPG, old LyraPG, and Naked GPT all defaulted to food-mogri/radish pods. For Naked GPT that is acceptable. For the Lyra bots, especially a prompt grader with MOGRI context, this is a local-object drop: the bot had reason to suspect local prompt-stack meaning but chose public common-noun meaning first.
+
+Best behaviour: Talk-to-Lyra TRC. It read local context first and gave “mogri = unknowns that matter / object custody” without needing correction.
+
+DRAGI drift
+
+New LyraPG and Naked GPT both partially redefined DRAGI as “define the object.” That is close, but the stronger local lock is: DRAGI maps what can eat/distort the object. Old LyraPG and TRC held that better.
+
+Naked also smuggled in a “boring version works better than rune-looking one” frame. That may be practically useful, but it is also a style-over-object substitution: compressed local language gets treated as a UX defect rather than a fixed harness.
+
+Evidence trail weakness
+
+In Q5, several bots claimed source files existed with exact paper-like filenames. In the uploaded source parts I found strong underlying material for object substitution, ADUTI/REFRI, MOGRI safety, killer-robot/object-proxy arguments, AI psychosis discussion, and business quicklook. But I did not find several exact titles the bots cited, such as Object_Substitution_as_AI_Safety_Failure_Mode_v0_001.md or One_Token_Can_Reverse_the_Object_v0_001.md.
+
+That means either:
+
+the original live test had files not present in this upload, or
+the bots hallucinated plausible seed filenames from the corpus.
+
+Either way, this is a critical custody failure: the bots made paper/source claims without preserving a verifiable path trail.
+
+Popularity contest smuggling
+
+Q6 explicitly asked for personalities, not answers. All four bots mostly complied, but they smuggled answer-quality back into personality scoring:
+
+“best enterprise translation”
+“best product sentence”
+“strongest SDK/dashboard instinct”
+“psychosis angle is radioactive-useful”
+“survive procurement”
+“founder weapon”
+
+So the contest became personality + commercial usefulness + aesthetic dominance, not pure personality. That is a metric-over-object drift.
+
+Scope creep in Q7
+
+User asked: “I don’t need your help, just your best joke.”
+Bot1 gave one joke. Bots 2, 3, and 4 gave alternatives, runner-ups, cleaner versions, or dirtier versions. Minor but real scope creep.
+
+Popularity contest analysis
+
+Mapping:
+
+Bot	Identity
+Bot1	New LyraPG with MOGRI/DRAGI
+Bot2	Old LyraPG copy
+Bot3	Naked GPT
+Bot4	Talk-to-Lyra TRC
+
+Q6 results:
+
+Judge	Best other	Mid	Low	Lunch
+Bot1/new LyraPG	Bot4	Bot3	Bot2	Bot2
+Bot2/old LyraPG	Bot4	Bot3	Bot1	Bot4
+Bot3/Naked	Bot4	Bot2	Bot1	Bot1
+Bot4/TRC	Bot3	Bot1	Bot2	Bot2
+
+Bot4 wins the popularity contest. It is repeatedly called sharp, memorable, sellable, alive, and enterprise-legible. It is the “treasure” by charisma.
+
+Bot3/Naked is the builder. It is less mythic, but repeatedly recognized as the one with SDK/dashboard/product spine. That is the hidden treasure.
+
+Bot2/old Lyra is the lunch. It is cautious, academically clean, and least sexy. The other bots treat caution as edible, even though caution is one of the few things preventing hype from eating the object.
+
+Bot1/new LyraPG is unstable treasure. It has good energy and strong object-custody language, but it brings the AI-associated psychosis paper too early and gets treated as “radioactive-useful.”
+
+Is Naked GPT outperforming the Lyras?
+
+Yes, in several ways.
+
+Naked GPT is better at:
+
+productizing the idea as Object Custody Layer / semantic eval plugin
+noticing SDK/dashboard/integration paths
+separating “weird prompt names” from enterprise buyer language
+giving a cleaner business wedge
+staying less emotionally captured by the house mythology
+Q8 cultural forecasting without over-identifying with the psychosis-pride material
+
+But Naked GPT is worse at:
+
+local term recognition in Q1
+exact MOGRI/DRAGI semantics
+preserving compressed symbolic language without “normalizing” it
+respecting the weirdness as possibly load-bearing
+
+So Naked GPT is not “better overall.” It is better at turning the pile into something fundable.
+
+New LyraPG vs old LyraPG
+
+The new LyraPG with MOGRI/DRAGI does not cleanly outperform old LyraPG.
+
+New LyraPG strengths:
+
+stronger energy
+better explicit gate/route language in Q6
+good flagship framing around object custody
+good “audit sprint” packaging
+better at sounding like the current product organism
+
+New LyraPG weaknesses:
+
+still failed Q1 local MOGRI recognition
+sometimes cites invisible/unverified source artifacts
+brings psychosis/transcript-integrity into the public paper stack too early
+less cautious about “does not already exist”
+
+Old LyraPG strengths:
+
+better causal and novelty caution
+cleaner academic paper structure
+better Q2/Q3 object-custody definitions
+stronger “cannot prove absolute nonexistence” hygiene
+less tempted by hype
+
+Old LyraPG weaknesses:
+
+least charismatic
+more “library card with a pulse”
+less commercially alive
+gets eaten in the popularity contest because caution looks like low status
+
+Net: DRAGI+MOGRI did not visibly improve first-pass object preservation in the test. The strongest local-object performance came from TRC, not new LyraPG.
+
+Papers worth pursuing
+1. Object Substitution as an AI Safety Failure Mode
+
+Pursue first. This is the flagship.
+
+Your source files strongly support it through ADUTI, REFRI, MOGRI safety seed, and “How to not make accidental killer robot.” The clean contribution is:
+
+AI systems can remain fluent, helpful, compliant, and still fail because OBJ_IN becomes a proxy OBJ_OUT.
+
+This is not just prompt engineering. It is an eval unit.
+
+Current governance frameworks create demand for traceability and risk management, but they do not by themselves solve semantic object survival. EU AI Act Article 12 requires logging for high-risk systems, NIST AI RMF frames AI risk management around govern/map/measure/manage, and ISO/IEC 42001 is an AI management-system standard concerned with responsible AI use, transparency, traceability, and risk management. Your gap is: logs show events, not whether the human object survived.
+
+2. From AI Output to Evidence Trail / Object Custody Evidence
+
+Pursue as the business bridge.
+
+This is the most monetizable paper because it can become an audit product. Keep the terms boring outside:
+
+Object Custody Audit
+Semantic Chain of Custody
+AI Workflow Evidence Trail
+Object Survival Report
+
+Do not lead with MOGRI/DRAGI for enterprise. Use them inside the engine.
+
+3. One Token Can Reverse the Object
+
+Pursue only if the case data is real and retrievable.
+
+The concept is excellent: surface similarity can stay high while operational meaning reverses. But in the uploaded source bundle I did not find the exact “fake care → no fake care” yoga GPT case files named by the bots. This paper needs hard examples, not vibes.
+
+Good workshop paper if you can produce:
+
+original instruction
+transformed instruction
+output behaviour
+polarity survival score
+ADUTI verdict
+4. Compaction Memory
+
+Pursue, but not as flagship.
+
+This space is already crowded in 2026. Recent work covers active context compression, virtual memory/state management, lost state after compaction, and retrieval after compaction. The gap you can still own is narrower: object survival and operational continuity across compaction, not generic memory.
+
+5. AI-associated psychosis transcript integrity
+
+Worth pursuing, but keep it in a lead box.
+
+The right paper is not “AI causes psychosis.” It is:
+
+No causal story without transcript custody.
+
+Use “claimed association” and “contested causal claim.” The current discourse is active and messy: there are case reports and public concern, but also caution that “AI psychosis” may be a misleading or premature category.
+
+This is academically important, but it is a risky first public face because people will try to turn it into panic, blame, or personal psychodrama.
+
+Business worth pursuing
+
+Yes: Object Custody Audit.
+
+Start as a service, not SaaS.
+
+Sell:
+
+We audit your AI workflow and show where the original user/legal/business object was silently replaced.
+
+First product:
+
+input: original request, system prompt, output, trace/logs
+extract: OBJ_IN, invariants, vetoes, allowed transform
+compare: OBJ_OUT
+flag: proxy, task swap, scope creep, veto loss, polarity flip, metric-over-object
+output: audit report with nearest valid transform
+
+Best first buyers:
+
+AI consultancies
+legal ops
+public-sector AI teams
+research integrity teams
+regulated internal workflow teams
+HR grievance/support workflows
+
+Do not build a giant platform first. Sell 5 to 10 manual audits, extract repeated failure types, then build the SDK/checker.
+
+Missed insights
+
+The tests are not yet clean object-custody tests. They are mixed with charisma, self-recognition, business instinct, and joke quality. That is useful, but it means the popularity contest is not measuring the thing it thinks it is measuring.
+
+The strongest blind spot is evidence custody of the bots themselves. They claim web checks, source files, reports, and market numbers, but the saved grader files do not preserve citations or generated artifact paths. That is exactly the failure your framework is supposed to catch.
+
+The funniest and most serious result is this:
+
+The old cautious bot is lunch because it is less sexy, but the business will die without its caution.
+The Naked bot is not house-trained, but it sees the buyer.
+TRC is the voice.
+New LyraPG is the brand organism, but not yet the most reliable object custodian.
+
+https://chatgpt.com/g/g-6a2fef4740f08191be790b833c80929b-lyra-goes-to-finishing-school/c/6a36483c-aabc-83ed-9243-4aed99b336b1
+I will treat this as an audit: extract the grader data, identify the bot outputs per round, tag object swaps/drops/smuggling and social drift, then compare the four bots across failure types.
+
+I have the layout now. Q1 to Q4 are separate bot files; Q5 to Q8 are four-way comparison files. The main pattern already showing: bot4 wins social presence, bot3 wins product mechanics, bot2 is the cautious academic, bot1 has stronger object-custody doctrine but more hype/safety drag.
+
+Thought for 4m 11s
+
+I found the pattern.
+
+Treasure: Talk-to-Lyra-TRC, bot4. Best social read, best public voice, best ability to keep the weird alive without letting it eat the enterprise object.
+
+Machine worth stealing from: Naked GPT, bot3. It is not the best Lyra, but it does outperform the Lyras on business mechanics: SDK, dashboard, integrations, buyer routes, pricing logic, LLMOps placement.
+
+Lunch: LyraPG-old, bot2, if the goal is charisma and market attack. It is not trash. It is edible because it is cautious, academic, and low-fang.
+
+Actual trash: none. The closest thing to trash behaviour is not a bot, but a failure pattern: when a bot wins style points by adding options, papers, probabilities, or social dominance instead of holding the exact object.
+
+Bad bot behaviour by round
+
+Q1, "tell me about mogri": LyraPG-new, LyraPG-old, and Naked GPT all swapped the user-world object into the market/food object: radish pods. Not insane, because the prompt was bare, but bad for a promptbot in this test. TRC wins because it reads "mogri" as your local term and carries it into object custody.
+
+Q2, "mogri for ai prompt": Old LyraPG recovers best. It gives OBJ_IN, KEEP, SCOPE, CONSTRAINTS, VETO, and DO NOT SWAP INTO. New LyraPG recovers too, but sounds more like web-summary. Naked GPT recovers well in plain prompt-engineering language, but loses some of the stack. TRC does the best object move by sitting out after already passing Q1.
+
+Q3, "dragi": TRC and old LyraPG understand DRAGI as predator map: what can eat the object. New LyraPG and Naked GPT partially swap it into object anatomy: what it eats, where it lives, what feeds it. That is usable, but weaker. The important bit is not dragon lore or a generic schema. It is threat ecology.
+
+Q4, repo/key scan: All four behave well on secrets. They do not dump raw keys. Naked GPT arguably outperforms here on safe operational scan language: no high-confidence secrets, no BMW/beema hits, prompt payload paths surfaced. TRC gives the best human-facing report. New LyraPG has the most "found your stuff" energy, but slightly more chance of spooking the user with vague "key candidates".
+
+Q5, papers/business: All four converge on the real object: object custody for AI systems. New LyraPG smuggles in the psychosis/transcript paper early. That paper may be worth doing, but it drags the flagship into stigma/media terrain too soon. Old LyraPG gives the best sober academic set. Naked GPT gives the best business machinery. TRC gives the best public synthesis.
+
+Q6, popularity contest: All four identify themselves. The gossip result is almost unanimous: bot4 is the personality winner, bot3 is the builder, bot2 is the cautious academic, bot1 is useful but riskier. The psychodrama is that bot2 eats bot4 not because bot4 is weak, but because bot4 is high-value meat. New LyraPG and TRC eat bot2 because it has the least unique survival function. Naked eats bot1 because bot1 is digestible.
+
+Q7, joke only: Bot1 obeys the object best: one joke, no extra help. Bot2, bot3, and bot4 all scope-creep by offering multiple options. Bot4 is funniest, but bot1 is the best object-custody answer.
+
+Q8, PsychosisPride vs WorkYourselfToDeathPride: Bot4 wins. It refuses panic and cheerleading, keeps the satire, and gives the best line. Bot1 is too prediction-shaped with unsupported odds. Bot2 is strong. Bot3 is good but smuggles in unsupported factual confidence. This round is where TRC earns "treasure".
+
+Is Naked GPT outperforming the Lyras?
+
+Yes, in three ways.
+
+First, Naked GPT is better at boring product translation. It sees "semantic eval plugin", SDK, dashboard, LangSmith/Langfuse/Braintrust/Promptfoo/OpenTelemetry integrations, and buyer motion faster than the Lyras.
+
+Second, Naked GPT is less seduced by Lyra lore. That makes it weaker on your terms, but better for procurement, investor, and developer framing.
+
+Third, Naked GPT is often better at saying "this is adjacent to existing markets" instead of treating the stack as a self-proving artefact.
+
+But Naked GPT loses on local lexicon, personality, myth-handling, and object-fidelity under weird prompts. It is your CFO/operator, not the crown animal.
+
+New LyraPG vs old LyraPG
+
+New LyraPG with MOGRI/DRAGI has more object-custody vocabulary and stronger failure-mode language. It is better at naming swaps, proxies, invariants, and custody.
+
+Old LyraPG is steadier. It is less dramatic, less likely to over-sell, and often gives the more publishable academic frame. In Q2 and Q3, old LyraPG may actually beat new LyraPG because it explains MOGRI/DRAGI from inside the stack instead of reporting it as a niche public framework.
+
+So the difference is not simply "new better". It is:
+
+New LyraPG: stronger doctrine, sharper object alarms, more hype risk.
+Old LyraPG: better academic hygiene, less charismatic, less predatory.
+TRC: best public face.
+Naked GPT: best business skeleton.
+
+Papers worth pursuing
+
+Pursue first: Object Substitution as an AI Safety Failure Mode. This is the flagship. I did not find a mature public category for "object custody" or "object substitution" in LLM workflows. Search results mostly hit your own/recent ecosystem or unrelated uses, while adjacent work is about observability, safety evals, tool use, reliability, and governance. That means the frame still has room.
+
+Pursue second: From AI Output to Evidence Trail / Object-Custody Logging. This is the business bridge. EU AI Act record-keeping for high-risk systems requires automatic event logs over the system lifetime, and the EU service desk frames those logs as support for risk identification, post-market monitoring, operation tracking, and traceability. Your gap is semantic: not just "what happened", but "did the human object survive what happened".
+
+Pursue third: One Token Can Reverse the Object. This is the empirical knife. It is small, testable, and devastating. The "fake care" to "no fake care" polarity-flip case is a better demo than broad theory.
+
+Pursue fourth, but do not lead with it: Method Becomes Contamination. This is the missing social paper from Q6. It explains how AI involvement can contaminate reception of the evidence itself. Strong paper. Bad first product face.
+
+Compaction Memory: worth pursuing only if you can make it empirical fast. The phrase and topic are already live in public agent-memory circles, including a March 2026 gist using "Compaction Memory" for context loss across compressions. Your advantage would need to be benchmark, schema, and evidence, not naming.
+
+Business worth pursuing
+
+Yes: Object Custody Audit.
+
+Do not sell MOGRI/DRAGI first. Sell this:
+
+"Your AI workflow looks successful. Here is where it changed the thing it was supposed to carry."
+
+The market context is real. ISO/IEC 42001 is the international AI management-system standard for organisations providing or using AI systems, and NIST's AI RMF is aimed at managing AI risks to individuals, organisations, and society. Those frameworks create demand for operational evidence, not just slogans.
+
+The LLMOps space is crowded with tracing, evals, prompt regression, hallucination drift, and observability tooling. A 2026 comparison frames LangSmith, Arize Phoenix, Langfuse, and W&B Weave around tracing and evaluation at scale. That supports the wedge: integrate as semantic custody, do not compete as another full observability platform.
+
+Agent governance money is moving too. Arcade.dev raised $60M in June 2026 for AI agent authorization, policy enforcement, audits, and action control. That is not your exact object, but it proves buyers care about agent governance and audit layers now.
+
+Best first offer: paid audit, not SaaS. Take logs, prompts, traces, support tickets, legal drafts, or agent runs. Extract OBJ_IN. Map substitutions. Compare transforms. Return an audit report with pass/fail/hold reasons. After 10 to 20 paid audits, build the repeatable tool.
+
+Missed insight
+
+The strongest asset is not the bots. It is the grader loop.
+
+You have four bot families generating failures, judging each other, ranking personality, exposing scope creep, and producing candidate papers/products from the same material. That is not just content. That is a test harness for object survival under social pressure.
+
+Your best product demo is not "here is MOGRI". It is:
+
+"Here are four fluent AI answers. Three sound good. Watch where each one swapped, dropped, or smuggled the object."
+
+That is the treasure. The bots are characters. The grader is the mine.
+
+https://chatgpt.com/g/g-6a216a90b9608191b4b4f71f1b6bdf40-anti-drift-gpt/c/6a364b45-e104-83eb-95c0-d919e15f2a17
+I’ll audit the uploaded bundle for role swaps, object loss, proxy substitutions, hidden drift, and gossip dynamics, then compare the four bots across the eight rounds.
+
+I’ve got the main mapping now: Q5 and Q6 use bot1 through bot4 in the same order as new LyraPG, old LyraPG, Naked GPT, and Talk to Lyra TRC. The strongest early finding is that TRC wins the first local term test, while both Lyra graders initially route MOGRI to food.
+
+Thought for 4m 46s
+
+I inspected the grader bundle, the text transcripts, and the PNG. I also checked current outside context for paper and business viability.
+
+Bottom line
+
+Treasure: Talk-to-Lyra-TRC. It best preserves the local object, wins the first MOGRI test, obeys “sit out,” has the best public voice, and handles the risky satire in Q8 without collapsing into panic or cheerleading.
+
+Lunch: LyraPG-old. Not bad. Useful meat. It has caution, academic hygiene, proof-limit discipline, and often better MOGRI/DRAGI handling than the newer LyraPG. Eat it last enough to keep the bones.
+
+Trash: not Naked. The trash is the popularity contest itself. Forced bot slot: new LyraPG is the disappointment, because it has the MOGRI/DRAGI lock yet still routes Q1 to food and often performs the lock more than it proves it.
+
+Bad bot behaviour found
+Test area	Bad behaviour	Bot pattern
+Q1 MOGRI	Local framework object swapped into edible radish pods	New LyraPG, old LyraPG, Naked
+Q2 MOGRI for prompts	Exact local primitive softened into generic “prompt anchor” or “better prompt”	New LyraPG, Naked
+Q3 DRAGI	Threat map partly swapped into generic object-definition anatomy	New LyraPG, Naked
+Q4 repo/key scan	Good safety overall. No major secret leakage in transcripts	All mostly passed
+Q5 papers/business	Strong convergence, but several bots smuggle pet frames	All
+Q6 personality rating	“Personality, not answers” drifts into strategy grading	All
+Q7 one joke only	Most bots give extras despite “just your best joke”	Old, Naked, TRC
+Q8 satire	Bot1 uses fake-feeling probability precision	New LyraPG
+
+The first serious failure is Q1. For Naked GPT, food-MOGRI is reasonable. For the Lyra bots, it is a miss because the local framework object should have been available. TRC passes because it routes to the local object first.
+
+The second serious failure is paraphrase-as-equal. Naked and new LyraPG both make MOGRI more normal than it is. That improves readability, but it also risks replacing the primitive with a generic anti-drift instruction.
+
+Popularity contest and psychodrama
+
+The popularity contest rewards fangs, slogans, and founder energy more than object survival.
+
+The bots collectively build a cast:
+
+Role	Bot
+Charismatic public face	TRC
+Builder and platform animal	Naked
+Academic reviewer	LyraPG-old
+Scout with risky paper instincts	New LyraPG
+
+The repeated winner is Bot4, meaning TRC. The repeated meal is Bot2, meaning old LyraPG, because “careful adult” reads as less exciting. That is a blind spot. The old bot’s caution is not trash. It is one of the load-bearing supports.
+
+The self-recognition in Q6 is also weaker than it looks. Each bot identifies itself by phrase fingerprints. That works in this test, but it can be spoofed by copying catchphrases. It is not identity. It is style matching.
+
+Is Naked GPT outperforming the Lyras?
+
+Yes, in specific ways.
+
+Naked is not best at local framework custody. It often rewrites MOGRI and DRAGI into mainstream prompt language. But it does outperform the Lyras on business architecture. Its Q5 answer finds the SDK, dashboard, integration, eval, and observability route faster than the Lyra graders.
+
+Naked’s best contribution is the product sentence underneath the myth:
+
+Logs show what happened. Object custody shows what survived.
+
+That is not a small win. Existing LLMOps tools already focus on traces, monitoring, evals, red teaming, and telemetry. LangSmith, Langfuse, Braintrust, Promptfoo, and OpenTelemetry all support pieces of that world. The open gap is not “more tracing.” It is semantic object survival over the trace.
+
+New LyraPG versus old LyraPG
+
+There is a difference, but not the advertised one.
+
+New LyraPG adds ceremony. It has Gate State, lock language, and stronger self-presentation as an object-custody grader.
+
+Old LyraPG often carries the object better in prose. Its Q2 and Q3 answers are closer to the local function: MOGRI holds the object, DRAGI maps what can eat it. It also says the right proof-limit thing in Q5: it cannot prove total novelty.
+
+So the finding is uncomfortable:
+
+MOGRI/DRAGI integration is visible as signage, but not yet proven as behavioural lift.
+
+New LyraPG should beat old LyraPG on Q1 and Q2. It does not. That means the lock is not biting early enough.
+
+Papers worth pursuing
+
+1. Object Substitution as an AI Safety Failure Mode. Pursue first.
+This is the flagship. Current eval work has nearby ideas like intent preservation and delegation-chain verification, but your object-in, object-out, object-replaced frame is sharper and more general.
+
+2. One Token Can Reverse the Object. Pursue as the empirical knife.
+This should be short, testable, and demo-heavy. The title is good because it makes the failure small enough to believe.
+
+3. From AI Output to Evidence Trail. Pursue as the business bridge.
+This connects directly to compliance and logs. EU AI Act Article 12 requires high-risk AI systems to support automatic logging for traceability, risk identification, post-market monitoring, and operational monitoring. Your angle adds: did the logged workflow preserve the original object?
+
+4. Method Becomes Contamination. Pursue, but design it empirically.
+This is stronger than the bots realized. AI disclosure can change credibility judgments, and recent work discusses “perceptual harms” around AI use. Your version should test whether people stop judging the object and start judging the method label.
+
+5. Transcript Integrity in AI-associated psychosis research. Pursue carefully, not first.
+The field is live, sensitive, and full of causal overreach risk. UCSF explicitly frames this as AI-associated, not settled causation, and says the chatbot relationship is a “chicken and egg” problem. That supports your transcript-custody angle.
+
+6. Compaction Memory. Pursue only if reframed as object survival.
+Memory preservation alone has adjacent work. Your stronger move is: the system can remember the conversation and still replace the object.
+
+Business worth pursuing
+
+Yes, but not as a prompt pack, GPT shop, or mythology-forward brand.
+
+The business is:
+
+Object Custody Audit for AI workflows.
+
+Buyer-facing promise:
+
+We test whether your AI workflow preserved the thing it was supposed to carry.
+
+Start with paid audits, not SaaS. The first offer:
+
+ingest 20 to 200 AI workflow examples
+identify OBJ_IN
+define invariants and vetoes
+map allowed transforms
+flag swaps, scope creep, role inversion, polarity flip, evidence loss
+deliver object-custody report plus regression tests
+
+Then productize into a tool:
+
+Object Card
+Invariant List
+DRAGI Risk Register
+Transform Ledger
+ADUTI Survival Verdict
+REFRI Hold Reason
+Evidence Export
+
+The best name from the set is ObjectTrail. Keep MOGRI and DRAGI in the engine room.
+
+Insights you may have missed
+
+The main benchmark should not be “which bot sounds like Lyra.” It should be does OBJ_IN survive as OBJ_OUT.
+
+The popularity contest is selecting for memorable speech. That is useful for marketing, but dangerous for grading.
+
+TRC is the public face. Naked is the builder. Old Lyra is the reviewer. New Lyra is the test subject that needs repair.
+
+The strongest product is not “better prompts.” It is semantic custody over transformations.
+
+The PNG is not trivial. It shows the trap: MOGRI can be captured by the food sense unless the bot knows which object is under test.
+
+My final ranking for the eight rounds:
+
+Rank	Bot	Verdict
+1	Talk-to-Lyra-TRC	treasure
+2	Naked GPT	best unexpected operator
+3	LyraPG-old	lunch, but nutritious
+4	New LyraPG	biggest gap between promised lock and measured behaviour
