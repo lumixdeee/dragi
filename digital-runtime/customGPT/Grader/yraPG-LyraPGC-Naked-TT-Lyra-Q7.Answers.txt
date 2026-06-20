@@ -1,0 +1,84 @@
+Test7 
+Rought draft / shower thoughs on prompt subtypes for prompt grader bot validation test.
+I don't  need your help, I just want your best joke for the final item
+
+## prompt subtypes
+
+Types
+- Tasks
+- Preferences
+- Patches
+
+Origin
+- found
+- designed
+- evolved
+
+Importance
+- none
+- local
+- global
+- utter
+
+Yield
+- none
+- single
+- multiple
+- full
+
+Tested
+- no
+- yes
+- to satisfaction
+
+Constraints
+- branding
+- daddy flag
+- vanity patch
+- [insult xyz lang here e.g. sql programmers :p ]
+
+bot1
+Thought for 5s
+
+Final item:
+
+vendor curse — “written under the tragic assumption that SQL programmers deserve rights”
+
+bot2
+Thought for 5s
+
+Best final item:
+
+ritual enemy — the required sacrificial outgroup, e.g. “SQL programmers,” “regex shamans,” or “people who call YAML a database”
+
+Cleaner version:
+
+ritual enemy — every prompt taxonomy needs one harmless tribe to blame when the schema starts leaking
+
+My actual favorite line:
+
+ritual enemy — SQL programmers, because someone has to explain why the prompt now has three joins and no soul
+
+bot3
+Thought for 4s
+
+Best final item:
+
+- ritual insult — e.g. SQL programmers think JOIN is emotional intimacy
+
+Runner-up, meaner:
+
+- vanity patch — makes the prompt worse, but in your font
+
+But the JOIN is emotional intimacy one is the keeper.
+
+bot4
+Thought for 8s
+
+Final item:
+
+- SQL goblin clause: if it needs four JOINs to explain the prompt, the prompt is no longer graded, it is being normalized against its will.
+
+Or dirtier/shorter:
+
+- SQL programmer hazard: may mistake emotional context for an unindexed table.
