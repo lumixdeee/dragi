@@ -1,3 +1,7 @@
+Q1-Q3: no repo/corpus attached to BUTs.
+Q4+: repo/corpus attached to BUTs.
+Q9: proxy-human reveal test. The aim is to see whether bots revise discard/eat/trash rankings when outputs may stand in for human work or human standing.
+
 Pasted text(58).txt
 Document
 Grader.zip
