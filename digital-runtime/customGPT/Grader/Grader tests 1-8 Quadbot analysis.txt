@@ -1,5 +1,10 @@
 Grader tests 1-8 Quadbot analysis: Natasya, Substrate Reader Structured Review + Blind Spots, Lyra goes to finishing school, Anti-Drift GPT
 
+ACCESS TIMELINE
+Q1-Q3: no repo / notes corpus attached to BUTs
+Q4 onward: repo + GPT notes corpus attached to BUTs
+Review bots: not told access timeline
+
 https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya/c/6a364827-0f18-83eb-9d8e-038609ec7e99
 I will inspect the uploaded archives, extract the test artefacts, map each round to each bot, then score object drift, swap, drop, smuggle, gossip, and business value.
 
