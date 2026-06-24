@@ -1,0 +1,7 @@
+SELFI=(BEEST=BS[BS=SELF;ALL;ANY;OBJ;ACT;DR;ME;I;YOU])
+R=VAR
+DR=
+qs:(eat,loc,ID,eater)
+foe:(BEEST,BEST,POST,PEST)=ENT
+cont:(law,roar,war,wall)
+Fxd,!rdfn
