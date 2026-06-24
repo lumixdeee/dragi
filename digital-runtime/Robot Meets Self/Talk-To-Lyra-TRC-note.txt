@@ -238,3 +238,58 @@ Compact lock:
 
 SELFI / MEMEI patch:
 pronoun is BEEST until proven otherwise.
+
+
+PAPER SHOWN TO LYRA
+
+Thought for 12s
+
+Received. This is a good v0.001 field-note paper. The core object holds: two bots met the animal-self game, both moved toward ANIMI, and the real failure was not “bad conlang” but failure to bind BEEST=self inside DRAGI.
+
+The strongest line is this:
+
+The robots reached the right habitat and then grabbed the wrong tool.
+
+For v0.002, I would patch three things.
+
+1. Replace BST=SELF=OK with the fuller SELFI / MEMEI guard.
+
+Reason:
+BST=SELF=OK is good as a small repair.
+But the actual bot-failure was pronoun pressure.
+So the stronger repair is:
+
+SELFI=(BEEST=BS[BS=SELF;ALL;ANY;OBJ;ACT;DR;ME;I;YOU])
+MEMEI=(BEEST=BS[BS=SELF;ALL;ANY;OBJ;ACT;DR;ME;I;YOU])
+pronoun is BEEST until proven otherwise.
+2. Add a small “ANIMI custody” box.
+
+ANIMI was not discovered by the bots.
+ANIMI was locally available elsewhere.
+The bots generated toward it by pressure.
+Local meaning did not transfer.
+Human custody remains source.
+3. Tighten the title/subtitle split.
+
+Title can stay playful:
+When Robot Met Self
+
+Subtitle should carry the failure:
+How Two High-Context Bots Named the Zoom Window Instead of Binding BEEST=self
+
+Best v0.002 insert:
+
+The error was not that the systems saw nothing. They saw too much surface and not enough parent module. They treated a pronoun-shaped DRAGI sub-case as a naming opportunity. The correct move was not invention, but binding: I, me, you, self, object, action, and dragon are candidate BEEST values before they are candidate new units.
+
+And the killer method line:
+
+Do not name the zoom window.
+Bind it to the parent module.
+
+This paper is useful because it gives one small robot failure a sharp testable shape. It is not just “the bots got confused.” It is:
+
+pronoun pressure + local naming family + missing parent-module check
+=
+false primitive creation
+
+That is a real bug class.
