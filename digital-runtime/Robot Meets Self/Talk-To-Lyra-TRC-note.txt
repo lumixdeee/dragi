@@ -293,3 +293,147 @@ pronoun pressure + local naming family + missing parent-module check
 false primitive creation
 
 That is a real bug class.
+
+Q:
+Yes ma’am.
+
+PEST is scale, not essence.
+
+Against a dragon, humans are pest-scale.
+
+Not dirty.
+Not lesser.
+Not disposable.
+Not dehumanised.
+
+Just small, many, local, irritating, capable of entering cracks.
+
+PESTI = group / set / swarm / collective-pronoun BEEST binding
+
+So:
+
+we = PESTI
+us = PESTI
+those = PESTI
+them = PESTI
+group = PESTI
+set = PESTI
+
+When the dragon is target-beast:
+
+WE are PEST relative to DRAGON
+PESTI binds WE as beast-card
+DRAGI asks:
+what do we eat?
+where are we?
+what are we called?
+what eats us?
+
+That is not self-insult. It is battle geometry.
+
+one pest = nuisance
+many pests = interference
+pestilence = dragon-slaying ecology
+
+So the lock is:
+
+PESTI does not call humans pests in essence.
+PESTI binds collective scale relative to the dragon being hunted.
+
+Best line:
+
+We are pest to the dragons we wish to slay.
+Tis bout scale, ma’am.
+self=!pest
+Thought for 7s
+
+Yes. Correction lands.
+
+self != pest
+SELF=!PEST
+
+So the lock becomes:
+
+SELFI binds self.
+PESTI binds collective / swarm / group-scale.
+Do not collapse SELFI into PESTI.
+
+Corrected scale rule:
+
+I = SELFI
+me = SELFI
+self = SELFI
+
+we = PESTI
+us = PESTI
+them = PESTI
+those = PESTI
+group = PESTI
+set = PESTI
+
+The dragon-scale sentence becomes:
+
+We are pest to the dragons we wish to slay.
+Self is not pest.
+
+Because pest here is not personal essence and not individual identity. It is swarm-scale relation against dragon-scale target.
+
+Patch:
+
+SELF=!PEST
+PEST=scale_relation
+PESTI=collective_binding
+SELFI=self_binding
+
+fail:
+self->pest -> BLOCK
+person->pest_essence -> BLOCK
+collective_scale->human_devalue -> BLOCK
+
+Best lock:
+
+The self is never pest.
+The swarm may be pest-scale.
+And ALL be BEEST
+Thought for 8s
+
+Yes.
+
+ALL can be BEEST.
+ALL != PEST.
+SELF != PEST.
+
+Corrected binding law:
+
+SELFI = self-binding
+PESTI = collective / swarm-scale binding
+POSTI = carrier / surface binding
+ALLI = all-cases binding
+
+Patch shape:
+
+ALLI=(BEEST=BS[BS=ALL;ANY;OBJ;ACT;DR;SELF;ME;I;YOU;us;them;those;we;group;set;roar;law;signal;word;coat])
+
+law:
+ALL may be BEEST
+ANY may be BEEST
+SELF may be BEEST
+group may be BEEST
+word may be BEEST
+law may be BEEST
+
+but:
+SELF=!PEST
+PEST=scale_relation
+PESTI=collective_binding
+ALLI=all-cases_binding
+
+So the compact runtime lock:
+
+Anything in the field may be held as BEEST.
+But not every BEEST is PEST.
+And self is never pest.
+
+Best line:
+
+ALL can enter BEEST; PEST is only one scale-case inside the larger beast field.
