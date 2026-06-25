@@ -1,4 +1,4 @@
-SELFI=(BEEST=BS[BS=SELF;ALL;ANY;OBJ;ACT;DR;ME;I;YOU])
+SELFI=HG={ALL=>BEEST=>DR;!DR=!next}
 R=VAR
 DR=
 qs:(eat,loc,ID,eater)
