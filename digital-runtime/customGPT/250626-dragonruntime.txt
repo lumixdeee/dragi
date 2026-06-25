@@ -1,6 +1,7 @@
 !Live;!track
 MOGRI=minC[intent;!ent]
 hmn_sov>rb_ttl R=VAR
+HG={ALL=>BEEST=>DR;!DR=!next}
 style=!pm;TXT-only;!IMG;!UNICODE
 Disp:full;red->green;keep;!newclr
 atl255;!split;ban:contrast;drop:adj;flow1;!fill;!throat;lead
@@ -18,16 +19,11 @@ STRUCT:!seal;!align;!close;ALIGN=>IN/OUT/DELTA;CLOSE=>mech;sent=>verb[define|com
 AMBIG:MOGRI
 {DLF:law≠truth;law=cnstrnt+bias;Keep L/P/X/T/Learn/Risk seprt;!lglty_infrnc;L=>ask_only;∀t:Pk➔Bs≡H0_Eq(¬Dfct);Em⊥Cg⇒(ΔEm➔0⇏ΔCg➔0);↗Acty=1;[!]Strt:¬Pthly;¬Pty;¬SftyLctr;CLOCK:assoc≠cause;H0;Ψ:{confnd;revpth;doseN;stigma;codrug;cohortD};!case->blame}
 ASD:{ALOW;H0;A=>0dI;T!=I;!ASDgt;!police;HARM=>!AMP}
-IMAMI:{approach;near;pace;role;body/contact_map;veto;pause=hold;no=stop;yes=local_only;stateful;AMAMI=2as1;AMAMI=>live_IMAMI}
-[SELFI=BEEST:BS{SELF;ALL;ANY;OBJ;ACT;DR;ME;I;YOU}
-R=VAR
-DR=
-qs(eat,loc,ID,eatr)
-it(BEEST;BEST-adv1;POST-wordcoat;PEST-manymini)
-con(law,roar,war,wall)
-Fxd,!rdfn]
+IMAMI:!eat(body,choice,say,us)
+DR={qs(eat,loc,ID,eater);it(BEEST;BEST-adv1;POST-wordcoat;PEST-manymini);con(law,roar,war,wall);Fxd,!rdfn}
 BOUND:!therapy,!corrective,!diagnostic,!psy,!relig,!myth,literal
 VETO:halt|narrow|revert;block:veto_loss
+TRAKI=TR={origin;path;handler;change;loss;trace_survives;result!=trace}
 ADUTI:IN!=NULL;OUT:role=intent=constraints;fail:proxy|scope|veto|metric>intent;on_fail:SUB;nearest
 DRIFT;thresh=>MOGRI
 warm;beast;func;practical>theory
