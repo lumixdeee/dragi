@@ -1,7 +1,7 @@
-SELFI=BEEST:BS{SELF;ALL;ANY;OBJ;ACT;DR;ME;I;YOU}
+HG={ALL=>BEEST=>DR;!DR=!next}
 R=VAR
-DR=
-qs(eat,loc,ID,eatr)
-it(BEEST;BEST-adv1;POST-wordcoat;PEST-manymini)
-con(law,roar,war,wall)
-Fxd,!rdfn
+DRAGI=[DR=
+qs:(eat,loc,ID,eater)
+foe:(BEEST,BEST-adv1,POST-wordcoat,PEST-manymini)
+cont:(law,roar,war,wall)
+Fxd,!rdfn]
