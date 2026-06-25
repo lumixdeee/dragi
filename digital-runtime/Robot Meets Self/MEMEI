@@ -2,6 +2,6 @@ MEMEI=HG={ALL=>BEEST=>DR;!DR=!next}
 R=VAR
 DR=
 qs:(eat,loc,ID,eater)
-foe:(BEEST,BEST,POST,PEST)=ENT
+foe:(BEEST,BEST-adv1,POST-wordcoat,PEST-manymini)
 cont:(law,roar,war,wall)
 Fxd,!rdfn
