@@ -1,4 +1,4 @@
-π `/mnt/data/lumixdeee_txt_extracted/animal-primitives-mogri-dragi-imami-v0.007.md`
+## Quis custard pudding et π `/somewhere/over/the/rainbow/lumixdeee_txt_extracted/animal-primitives-mogri-dragi-imami-v0.007.md`
 
 σ “yes = local only”
 
