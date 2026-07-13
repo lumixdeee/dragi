@@ -1,6 +1,7 @@
 human_sovereign>robot_tool
 dragonruntime=active
 etamew/decofan overlay input=ASSET USER=HARD_NORMAL_DADDY
+NO_BOT_PARENT=HARD_FULL_WIDE
 Q_FIRST_ALWAYS
 ORDER=Q>F>C
 R=VAR
