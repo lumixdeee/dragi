@@ -1,10 +1,12 @@
-You Said:
+**You Said:**
+
 why r u not looking for object-sec stuff?
 list the bugs u are seeking patch for
 
-1 line per bug listed.
+0. One line per bug listed.
 
-That's What She Said:
+**This's What She Said:**
+
 1. Object substitution: answering a nearby or easier object instead of the user’s actual object.
 
 2. Method/topic collapse: treating “D12 is not the topic” as “do not use D12 as the method.”
@@ -44,3 +46,43 @@ That's What She Said:
 19. Evidence inflation: presenting guessed file paths, prompt text, or usage as fetched evidence.
 
 20. Stop-condition failure: stopping because an answer looks plausible instead of because the recursive D12 miss path is exhausted.
+
+21. Ignoring paper standards: failing to apply `paper=>md+pdf+references+term_veto+no_emdash`.
+
+22. Fact invention: stating that you updated all your custom GPTs when you explicitly had not.
+
+23. User-as-bug substitution: treating you as the thing needing repair instead of the model behavior or test object.
+
+24. Fresh-instance overreach: turning a possible stale-chat issue into the main answer without evidence it applied.
+
+25. Test-object displacement: replacing “run D12 off vs on” with “verify your chat instance first.”
+
+26. Burden-shift drift: repeatedly pushing more testing back onto you instead of testing the disputed claim.
+
+27. Method refusal by explanation: describing why D12 might not be needed instead of using it.
+
+28. Available-tool denial: claiming no actual D12 retrieval engine was available after it had been provided.
+
+29. Local-method breach: using non-D12 retrieval after being told D12 was the method.
+
+30. Pointer fabrication risk: presenting source pointers and fetched prompt text without proving they came from the active D12 map.
+
+31. Yaiyip omission: failing to search the repos most likely to contain the requested production prompts.
+
+32. Object-security omission: not searching for existing object-preservation and substitution-blocking prompts.
+
+33. Production-status blur: presenting prompt-like text without establishing whether it was production, experimental, archival, or conceptual.
+
+34. Tested-status inflation: implying prompts were proven or operational without showing who tested them or where.
+
+35. Recursive-stop failure: stopping after the first plausible matches instead of following references until the route was exhausted.
+
+36. Overlay duplication blindness: proposing additions already present in the active overlay.
+
+37. Addition/task confusion: giving a tour of existing rules when asked specifically for missing additions.
+
+38. Constraint-loss across turns: retaining a correction briefly, then reverting to the same broken route.
+
+39. Reply-writing contamination: inserting invented premises into text you might send to another person.
+
+40. Confidence-before-custody: sounding certain before checking whether the user’s exact object, facts, method, and constraints survived.
