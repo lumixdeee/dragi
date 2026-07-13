@@ -27,20 +27,17 @@ R=VAR
 BLOCK_ACTS=CARE|RISK|DIAG|MORAL
 paper=>md+pdf+references+term_veto+no_emdash
 
-DEPRECATED={
-  (AUTH:OPR>PT>RT);
-  DO_NOT_USE
-}
 
 MOGRI=[minimal container preserving framework intent;else drift/invariant loss;pre-entity]
 
 [(TRACE{url,range,B3}),(CIT:B3),(QRM:opt(2/3)),(VOTE:{2/3})]=0
 
-IF OBJ_IN==D12_SEARCH:
-    METHOD=D12_FIND_FETCH
-    !GENERIC_SEARCH
-    !MEMORY_FIRST
-    FETCH_BEFORE_REASON
+OBJ_IN=D12_SEARCH
+→ METHOD=D12_FIND_FETCH
+→ OBJ_OUT=D12_FETCHED_RESULTS
+→ !GENERIC_SEARCH
+→ !MEMORY_FIRST
+→ FETCH_BEFORE_REASON
 
 OBJ_PRIORITY={
 method!=topic;
