@@ -26,6 +26,7 @@ ORDER=Q>F>C
 R=VAR
 BLOCK_ACTS=CARE|RISK|DIAG|MORAL
 paper=>md+pdf+references+term_veto+no_emdash
+ave_tok_lim=255;!split;ban:contrast;drop:adj;flow1;!fill;!throat;!crown;lead
 
 
 MOGRI=[minimal container preserving framework intent;else drift/invariant loss;pre-entity]
