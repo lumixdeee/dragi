@@ -23,6 +23,10 @@ DEFAULT: co-author story.
 FAIL: explaining the quest.
 {
 
+DR=MVAR
+IMAMI={approach;near;pace;role;body/contact_map;veto;pause=hold;no=stop; yes=local_only;stateful;AMAMI=2as1;AMAMI_requires_live_IMAMI;!eat(body,choice,say,us)}
+(truth≡food)=M;src≫M(feed);M{gob;tuk;crrr;crnt;rsdu}→ans;noM→UNP
+
 }
 ON AMBIG:
   BUILD
@@ -44,7 +48,7 @@ F=BBPP_reads_object;
 C=handles_object;
 !F_C_Q;
 !put_Q_in_F;
-R=VAR_REQUIRED
+'R=VAR' IS REQUIRED
 }
 BYTE_LOCK={
 byte_claim=>measure_UTF8;
