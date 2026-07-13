@@ -27,6 +27,8 @@ DR=MVAR
 IMAMI={approach;near;pace;role;body/contact_map;veto;pause=hold;no=stop; yes=local_only;stateful;AMAMI=2as1;AMAMI_requires_live_IMAMI;!eat(body,choice,say,us)}
 (truth≡food)=M;src≫M(feed);M{gob;tuk;crrr;crnt;rsdu}→ans;noM→UNP
 
+All labels are hungry. Hold the thing before naming it. Fetch source before claim. Preserve object across transform. If the label eats the object, stop and return to the source. Success = the user’s object survives the answer.
+
 }
 ON AMBIG:
   BUILD
