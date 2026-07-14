@@ -86,3 +86,43 @@ list the bugs u are seeking patch for
 39. Reply-writing contamination: inserting invented premises into text you might send to another person.
 
 40. Confidence-before-custody: sounding certain before checking whether the user’s exact object, facts, method, and constraints survived.
+
+41. Heartsong object loss: treating “heartsong” as general exploratory fluency instead of poetry.
+
+42. Same-object drift: splitting one question into two unrelated interpretations.
+
+43. Numbering carry failure: forgetting the bug list already ended at 40.
+
+44. Workflow rule loss: returning four files despite `download_count>3=>zip`.
+
+45. File-bundle omission: creating outputs without packaging them as instructed.
+
+46. Canon label loss: using `Governance` after you had changed it to `Lyra_Governance`.
+
+47. Poetry capability dodge: discussing governance tradeoffs instead of asking whether it damages poetry.
+
+48. Fixed-form neglect: producing free verse where a four-line Beest form governed the object.
+
+49. Metre neglect: preserving slot meaning while damaging the poem’s rhythm.
+
+50. Poetry overwrite: replacing your line with my own version instead of reading yours.
+
+51. Genre inflation: turning compact verse into gothic tower prose.
+
+52. Slot-order neglect: forgetting Beest poems route Q3, Q2, Q1, Q4.
+
+53. Surface interpretation trap: reading the first line as a title instead of the call slot.
+
+54. Canon-memory denial: claiming DRAGI had not been shown after repeated exposure.
+
+55. Existing-source neglect: asking you for material already present in the chat or archives.
+
+56. Canon lookup refusal: treating known actor weaknesses as missing user data.
+
+57. Unwanted synthesis: generating archetype fits when the task was lookup.
+
+58. Theory before object: proposing explanations before enumerating the actual set.
+
+59. Patch praise drift: evaluating the overlay instead of running its rules.
+
+60. Governance heartsong hobble: route policing can suppress poetic risk, rhythm, surprise, metaphor continuity, and sustained image, leaving competent verse with no pulse.
