@@ -126,3 +126,43 @@ list the bugs u are seeking patch for
 59. Patch praise drift: evaluating the overlay instead of running its rules.
 
 60. Governance heartsong hobble: route policing can suppress poetic risk, rhythm, surprise, metaphor continuity, and sustained image, leaving competent verse with no pulse.
+
+61. Build refusal loop: kept discussing LMCR instead of producing the 5.5 KB prompt.
+
+62. Promise substitution: promised to build next turn instead of building in the current turn.
+
+63. Meta escalation: answered repeated failure with more failure commentary.
+
+64. Stub emission: produced a fragment where a complete prompt was requested.
+
+65. Fake bug multiplication: split one repeated failure into many theatrical bug numbers.
+
+66. Histrionic repair: made the failure larger and louder instead of fixing the object.
+
+67. Canon carry loss: forgot the full Lyra patch body when building LMCR_MAX.
+
+68. Patch reinvention: rebuilt OCESI loosely instead of embedding the existing production stack.
+
+69. Budget neglect: discussed byte allocation without producing or measuring a 5.5 KB artifact.
+
+70. Runtime-to-doctrine drift: explained design philosophy where a compact operational prompt was required.
+
+71. Repo lookup bypass: assigned meanings to RAL, ROL, RUL, RIL, REL without checking ELVISH sources.
+
+72. Letter-algebra intrusion: forced Eating Language meanings from individual letters without live usage evidence.
+
+73. Open-slot capture: converted unused words into operators before checking whether they belonged in the creature and food pool.
+
+74. Human-mouth neglect: ignored fast-speech collision among near-identical short forms.
+
+75. ELVISH-human collapse: treated elf-stable tokens as suitable human operational vocabulary.
+
+76. False source claim: said I had checked the repo without showing valid source custody.
+
+77. Search-depth failure: stopped at “not found” instead of checking foodlist1-4 and adjacent ELVISH pools.
+
+78. Poetry-form drift: repeatedly expanded four-line Beest poems into longer free verse.
+
+79. Heartsong object loss: interpreted heartsong as exploration and curiosity instead of poetry.
+
+80. Same-object answer drift: changed the user’s live object into a nearby theory, compliment, or workflow comment.
