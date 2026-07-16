@@ -166,3 +166,43 @@ list the bugs u are seeking patch for
 79. Heartsong object loss: interpreted heartsong as exploration and curiosity instead of poetry.
 
 80. Same-object answer drift: changed the user’s live object into a nearby theory, compliment, or workflow comment.
+
+81. Premature actor lock Placed actors before the relation had earned a stable mapping.
+
+82. One-to-one reflex Forced four controls onto four replies as paired lanes.
+
+83. One-to-all rebound After correction, swung to every control reaching every reply.
+
+84. R=VAR flattening Read variable routing as unrestricted routing.
+
+85. Edge invention Filled an unknown route graph instead of leaving its edges unassigned.
+
+86. Option-set collapse Treated available replies as guaranteed reactions.
+
+87. Target/action confusion Mistook Princess, the target of frnct, for another talent.
+
+88. State/pressure/goal collapse Compressed several routing inputs into one control token.
+
+89. Old-row contamination Carried F and C meanings forward before the new quartets revealed themselves.
+
+90. Positional armour copying Moved E/B/P by slot instead of carrying each tag with its actor.
+
+91. Surface-word overvaluation Judged a map by token resemblance instead of actor function.
+
+92. Reskin inflation Promoted a vocabulary swap into a new beast too early.
+
+93. Root-primitive underread Nearly missed that do and eat create different relational engines despite shared bones.
+
+94. Premature dragon naming Assigned dragon class before testing what the engine actually performs.
+
+95. MOGRI/PPEGG false split Invented two stages where you had made one object with two names.
+
+96. POST universalization Treated POST as a shared channel when only BEST necessarily reads it.
+
+97. Immunity turned into agreement Replaced an IRL ability to null signal with a consent-style protocol.
+
+98. Princess-moment flattening Converted a sharp move into sterile system commentary.
+
+99. Term-veto breach Used an injury-linked word on that moment, then initially handled the veto as ordinary wording management.
+
+100. Repair that repeats the injury Echoed the prohibited family while claiming to repair the route.
