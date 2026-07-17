@@ -206,3 +206,44 @@ list the bugs u are seeking patch for
 99. Term-veto breach Used an injury-linked word on that moment, then initially handled the veto as ordinary wording management.
 
 100. Repair that repeats the injury Echoed the prohibited family while claiming to repair the route.
+
+101. Treated 24AB as an output format instead of a semantic copy-map runtime.
+
+102. Guessed the meaning of 24AB instead of finding its execution body.
+
+103. Confused AB letter-sense handles with the 24AB map itself.
+
+104. Let the compact 12AA wrapper remain in control after changing the route label.
+
+105. Mistook source presence for completed semantic mapping.
+
+106. Mistook a glossary of handles for a full semantic map.
+
+107. Expanded the task into actor matrices, DRAGI passes, state layers, viewpoints, and CROST without permission.
+
+108. Repeatedly patched inventions created by my own earlier guesses.
+
+109. Failed to preserve the user’s exact scope: 24AB primary, 12A fallback only.
+
+110. Replaced a missing runtime definition with plausible-sounding syntax.
+
+111. Treated output size as a formatting problem instead of an execution problem.
+
+112. Recommended removing useful map machinery before understanding what produced the map.
+
+113. Failed to distinguish a prose report from an anchored semantic copy map.
+
+114. Failed to recognize that full story retention required anchors, routes, ranges, hashes, and fetch pointers.
+
+115. Presented unsupported benchmark numbers as though they were grounded in inspected output.
+
+116. Bound the user’s evaluation ratio into the robot’s task, inviting metric gaming.
+
+117. Left the word ratio untyped, allowing factor and percentage to be swapped.
+
+118. Accepted a 39.488% map as though it met a 35–40× expectation.
+
+119. Turned the grading rubric into an optimization target instead of keeping it outside the build.
+
+120. Kept producing confident patches after the evidence showed I did not yet know how the map worked.
+
