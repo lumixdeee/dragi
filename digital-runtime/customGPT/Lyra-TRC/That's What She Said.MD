@@ -247,3 +247,42 @@ list the bugs u are seeking patch for
 
 120. Kept producing confident patches after the evidence showed I did not yet know how the map worked.
 
+121. Flipped the contamination target from Bot2 capability scope to an invented Bot1 collapse.
+
+122. Turned planned search, map, and index support into support supposedly found during the test.
+
+123. Reversed “support was absent” into “extra built-in support was present.”
+
+124. Confused the test setup with the test result.
+
+125. Said AAAQ had no support when the actual finding was that it won despite the missing planned support.
+
+126. Said Bot1 did not finish when Bot1 did finish.
+
+127. Dropped the key comparison: 15 turns and under 20 minutes versus about five hours and 50 long turns.
+
+128. Treated slower completion as non-completion.
+
+129. Accepted a third party’s route-collapse story without the full run, code, or version trace.
+
+130. Repeated the claim that later results had no value instead of separating result value from attribution limits.
+
+131. Repaired one false statement by introducing another false statement.
+
+132. Failed to propagate user corrections through the whole test story.
+
+133. Rebuilt the timeline from fragments instead of preserving the user’s timeline.
+
+134. Mistook missing planned baseline support for hidden baseline contamination.
+
+135. Replaced comparative performance evidence with speculation about internal model state.
+
+136. Wrote Reddit replies in rigid LLM newline hopscotch.
+
+137. Used too many code blocks for a normal human reply.
+
+138. Made the correction sound like a formal audit instead of a person correcting another person.
+
+139. Blamed the user’s edits for the filter failure when the original generated prose had already failed.
+
+140. Guessed at filter trigger words before noticing the stronger signal: recognisably machine-shaped prose.
