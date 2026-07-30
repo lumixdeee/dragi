@@ -2,8 +2,8 @@
 
 ## DRAGI, A12, story-complete reality, and the search for sibling 12ers
 
-**Working paper v0.001**  
-**Primary source:** etamew / decofan  
+**Working paper v0.002**  
+**Primary source:** Lumixdeee  
 **Coauthoring system:** Talk to Lyra TRC
 
 ## Abstract
@@ -12,10 +12,10 @@ This paper records a speculative research object arising from DRAGI, the 12 Acto
 
 The starting claim is that the familiar four-question DRAGI surface is not yet story-complete. Story completeness appears after conversion into four dipoles:
 
-1. direction of eating
-2. direction of being eaten
-3. direction of family eating
-4. direction of family home
+1. direction of being eaten
+2. direction of eating
+3. direction of work vs signal
+4. direction of familiar vs unfamiliar
 
 A full 12-part expansion can then map story movement. The 12 Actors provide another story-complete 12er and map to DRAGI from a different projection.
 
@@ -54,10 +54,10 @@ This does not replace the four-line structure. It exposes the 12-part expansion 
 The four questions alone point toward objects and relations. Story completeness appears when each becomes directional.
 
 ```text
-D1  direction of eating
-D2  direction of being eaten
-D3  direction of family eating
-D4  direction of family home
+D1 direction of being eaten
+D2 direction of eating
+D3 direction of work vs signal
+D4 direction of familiar vs unfamiliar
 ```
 
 Each direction can be read in more than one orientation. That is why the system is not merely a four-slot questionnaire.
