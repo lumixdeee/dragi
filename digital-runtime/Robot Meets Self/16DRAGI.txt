@@ -2,6 +2,6 @@ HG={ALL=>BEEST=>DR;!DR=!next}
 R=VAR
 DRAGI=[DR=
 qs:(eat,loc,ID,eater)
-foe:(BEEST,BEST-adv1,POST-wordcoat,PEST-manymini)
+foe:(BEEST,BEST,POST,PEST)
 cont:(law,roar,war,wall)
 Fxd,!rdfn]
