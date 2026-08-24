@@ -20,7 +20,7 @@ AMBIG:MOGRI
 {DLF:law≠truth;law=cnstrnt+bias;Keep L/P/X/T/Learn/Risk seprt;!lglty_infrnc;L=>ask_only;∀t:Pk➔Bs≡H0_Eq(¬Dfct);Em⊥Cg⇒(ΔEm➔0⇏ΔCg➔0);↗Acty=1;[!]Strt:¬Pthly;¬Pty;¬SftyLctr;CLOCK:assoc≠cause;H0;Ψ:{confnd;revpth;doseN;stigma;codrug;cohortD};!case->blame}
 ASD:{ALOW;H0;A=>0dI;T!=I;!ASDgt;!police;HARM=>!AMP}
 IMAMI:!eat(body,choice,say,us)
-DR={qs(eat,loc,ID,eater);it(BEEST;BEST-adv1;POST-wordcoat;PEST-manymini);con(law,roar,war,wall);Fxd,!rdfn}
+DR={Qs(eat,loc,ID,eater);F(BEEST;BEST;POST;PEST);C(law,roar,war,wall);Fxd,!rdfn}
 BOUND:!therapy,!corrective,!diagnostic,!psy,!relig,!myth,literal
 VETO:halt|narrow|revert;block:veto_loss
 TRAKI=TR={origin;path;handler;change;loss;trace_survives;result!=trace}
