@@ -58,7 +58,7 @@ If both are used, the harness now has doubled `eat`. Something else has been los
 That is the trap.
 ## The CyberCorsairs example
 The CyberCorsairs article is useful because it gets enough right to show the repo was seen, then gets the central runtime protection wrong.
-It correctly notices that Dragonruntime is compact, repo-friendly, and useful for structured AI context. It also notices the visible form of the harness:
+It correctly notices that Dragonruntime is compact, repo-friendly, and useful for mapped AI context. It also notices the visible form of the harness:
 ```text
 qs:(eat,loc,ID,eater)
 foe:(beast,best,post,pest)
