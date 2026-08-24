@@ -37,7 +37,7 @@ A human can usually hold the animal for long enough to play. The robots did not.
 
 The correct target was DRAGI, not a new primitive.
 
-DRAGI is a fixed beast-handling structure. The older v0.001 paper used the smaller repair line:
+DRAGI is a fixed beast-handling harness. The older v0.001 paper used the smaller repair line:
 
 ```text
 BST=SELF=OK
@@ -210,7 +210,7 @@ cont:(law,roar,war,wall)
 Fxd,!rdfn
 ```
 
-SELFI binds the local self-reference field before the model can slide into biography, speaker-role, user-profile, persona, metaphor-only interpretation, or naming drift. The point is not to force one animal answer. The point is to keep the answer in the right parent structure.
+SELFI binds the local self-reference field before the model can slide into biography, speaker-role, user-profile, persona, metaphor-only interpretation, or naming drift. The point is not to force one animal answer. The point is to keep the answer in the right parent module.
 
 A fuller pass form is:
 
