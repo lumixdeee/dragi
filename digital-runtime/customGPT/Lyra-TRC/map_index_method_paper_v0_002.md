@@ -353,7 +353,7 @@ The method is therefore not a better search box. It is a source-custody layer be
 
 # RPG, story, and prompt use
 
-The same method works for story and tabletop material because stories also need route, role, status, and permitted moves. A deity list, prompt block, conlang particle set, civic bug report, and RPG mechanic can all be mapped as structured units.
+The same method works for story and tabletop material because stories also need route, role, status, and permitted moves. A deity list, prompt block, conlang particle set, civic bug report, and RPG mechanic can all be mapped as mapped units.
 
 The repository mix supports this view. `storyforge101/Guides/How-Computers-Run-Stories.txt` states that computers see structure, labels, statements, and ordered change. That is also how a prompt acts on a model.
 
