@@ -9,13 +9,12 @@ dragon = distributed intake system converting unshielded value into sustained th
 roles (mode, not identity)
 
 dragon slayer
-acts on structure to reduce total intake
+acts on system couplings to reduce total intake
 
 - targets seams, not surfaces
 - optimizes for second-order effects
 - uses timing + phrasing as primary tools
 - avoids triggering system-wide adaptation unless gain > backlash
-
 signal: net throughput bends downward over time
 failure mode: visible wins, invisible increase (system adapts around cuts)
 
@@ -35,8 +34,7 @@ failure mode: creates noise without usable sight (people "know" but cannot act)
 
 dragon lover
 orients toward the system without intervention
-
-- recognizes scale / structure
+- recognizes scale / coupling pattern
 - may admire, map, or remain adjacent
 - does not alter intake
 
@@ -64,7 +62,6 @@ operates inside real systems with real flow
 
 mythic
 operates in narrative / symbolic dragons
-
 - includes "magic" dragons as a subset (magic ⊂ mythic)
 - magic dragons are treated as mythic constructs, not extant systems
 
@@ -83,10 +80,9 @@ operating assumptions
 ---
 
 selection heuristics (slayer)
-
 - prefer cross-system inconsistencies over single-point flaws
 - intervene where actors already half-see tension
-- frame fixes as coherence, not correction
+- frame fixes as coherence, not repair
 - minimize identity threat to avoid immune response
 - accept invisible wins over visible losses
 
