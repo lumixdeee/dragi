@@ -1,9 +1,9 @@
-# When Governance Starves the Route
+# When Lyra Governance Starves the Route
 
 ## Why DRAGI can fail on route-policed language models
 
 **Working paper v0.002**\
-**Primary source:** etamew / decofan\
+**Primary source:** lumixdeee
 **Case system:** Lyra-TRC\
 **Coauthoring system:** Talk to Lyra TRC
 
